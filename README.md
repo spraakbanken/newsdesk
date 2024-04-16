@@ -13,4 +13,4 @@ News feed storage for Språkbanken Text.
       en: Body text may contain <strong>HTML</strong>.
     created: 2023-11-30
   ```
-- That's it for now! You can access the feed at its GitHub raw url: https://github.com/spraakbanken/newsdesk/blob/main/data/korp.yaml
+- That's it for now! You can access the feed at its GitHub raw url: https://raw.githubusercontent.com/spraakbanken/newsdesk/main/data/korp.yaml
