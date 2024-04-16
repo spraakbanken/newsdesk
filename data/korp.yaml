@@ -3,10 +3,10 @@
     swe: "Ny korpus: Tvåkammarriksdagen"
     eng: "New corpus: Tvåkammarriksdagen"
   body:
-    sv:
+    swe:
       <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
       finns nu i Korp.</p>
-    en:
+    eng:
       <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
       is now available in Korp.</p>
   created: 2023-11-30
@@ -63,11 +63,11 @@
     swe: "Uppdaterat material: Familjeliv och Flashback"
     eng: "Uppdaterat material: Familjeliv och Flashback"
   body:
-    sv:
+    swe:
       <p>Korpussamlingarna <a href="?mode=default#?&amp;corpus=familjeliv-adoption,familjeliv-allmanna-ekonomi,familjeliv-allmanna-familjeliv,familjeliv-allmanna-fritid,familjeliv-allmanna-hushem,familjeliv-allmanna-husdjur,familjeliv-allmanna-kropp,familjeliv-allmanna-noje,familjeliv-allmanna-samhalle,familjeliv-allmanna-sandladan,familjeliv-expert,familjeliv-foralder,familjeliv-gravid,familjeliv-kansliga,familjeliv-medlem-allmanna,familjeliv-medlem-foraldrar,familjeliv-medlem-planerarbarn,familjeliv-medlem-vantarbarn,familjeliv-pappagrupp,familjeliv-planerarbarn,familjeliv-sexsamlevnad,familjeliv-svartattfabarn,familjeliv-anglarum,flashback-dator,flashback-droger,flashback-ekonomi,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback">Familjeliv
       och Flashback</a> har uppdaterats och innehåller nu allt material fram till
       och med år 2021.</p>
-    en:
+    eng:
       <p>Korpussamlingarna <a href="?mode=default#?&amp;corpus=familjeliv-adoption,familjeliv-allmanna-ekonomi,familjeliv-allmanna-familjeliv,familjeliv-allmanna-fritid,familjeliv-allmanna-hushem,familjeliv-allmanna-husdjur,familjeliv-allmanna-kropp,familjeliv-allmanna-noje,familjeliv-allmanna-samhalle,familjeliv-allmanna-sandladan,familjeliv-expert,familjeliv-foralder,familjeliv-gravid,familjeliv-kansliga,familjeliv-medlem-allmanna,familjeliv-medlem-foraldrar,familjeliv-medlem-planerarbarn,familjeliv-medlem-vantarbarn,familjeliv-pappagrupp,familjeliv-planerarbarn,familjeliv-sexsamlevnad,familjeliv-svartattfabarn,familjeliv-anglarum,flashback-dator,flashback-droger,flashback-ekonomi,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback">Familjeliv
       och Flashback</a> har uppdaterats och innehåller nu allt material fram till
       och med år 2021.</p>
@@ -76,10 +76,10 @@
     swe: "Uppdaterat material: SVT-nyheter"
     eng: "Uppdaterat material: SVT-nyheter"
   body:
-    sv:
+    swe:
       <p>Materialet i <a href="?mode=default#?&amp;corpus=svt-2004,svt-2005,svt-2006,svt-2007,svt-2008,svt-2009,svt-2010,svt-2011,svt-2012,svt-2013,svt-2014,svt-2015,svt-2016,svt-2017,svt-2018,svt-2019,svt-2020,svt-2021,svt-2022,svt-nodate">SVT-nyheterna</a>
       har uppdaterats med aktuella nyhetsartiklar och delats upp årsvis.</p>
-    en:
+    eng:
       <p>Materialet i <a href="?mode=default#?&amp;corpus=svt-2004,svt-2005,svt-2006,svt-2007,svt-2008,svt-2009,svt-2010,svt-2011,svt-2012,svt-2013,svt-2014,svt-2015,svt-2016,svt-2017,svt-2018,svt-2019,svt-2020,svt-2021,svt-2022,svt-nodate">SVT-nyheterna</a>
       har uppdaterats med aktuella nyhetsartiklar och delats upp årsvis.</p>
   created: 2022-04-01
@@ -236,11 +236,11 @@
     swe: "Ny korpus: Riksdagens öppna data"
     eng: "Ny korpus: Riksdagens öppna data"
   body:
-    sv:
+    swe:
       <p>En del av <a href="?mode=default#?corpus=rd-bet,rd-flista,rd-kammakt,rd-rskr,rd-samtr,rd-sou,rd-tlista"><em>riksdagens
       öppna data</em></a> har hittat in i Korp. Vi jobbar på att lägga in resten av
       samlingen också.</p>
-    en:
+    eng:
       <p>En del av <a href="?mode=default#?corpus=rd-bet,rd-flista,rd-kammakt,rd-rskr,rd-samtr,rd-sou,rd-tlista"><em>riksdagens
       öppna data</em></a> har hittat in i Korp. Vi jobbar på att lägga in resten av
       samlingen också.</p>
@@ -318,10 +318,10 @@
     swe: Aftonbladet
     eng: Aftonbladet
   body:
-    sv:
+    swe:
       <p><a href="?mode=kubhist#?corpus=kubhist-aftonbladet-1830,kubhist-aftonbladet-1840,kubhist-aftonbladet-1850,kubhist-aftonbladet-1860"><em>Aftonbladet
       1831-1862</em></a> finns nu i Korp.</p>
-    en:
+    eng:
       <p><a href="?mode=kubhist#?corpus=kubhist-aftonbladet-1830,kubhist-aftonbladet-1840,kubhist-aftonbladet-1850,kubhist-aftonbladet-1860"><em>Aftonbladet
       1831-1862</em></a> finns nu i Korp.</p>
   created: 2015-04-23
@@ -349,10 +349,10 @@
     swe: Kvinnotidningar
     eng: Kvinnotidningar
   body:
-    sv:
+    swe:
       <p>Korpussamlingen <a href="?mode=all_hist#?corpus=ub-kvt-dagny,ub-kvt-hertha,ub-kvt-idun,ub-kvt-kvt,ub-kvt-morgonbris,ub-kvt-rostratt,ub-kvt-tidevarvet"><em>Kvinnotidningar</em></a>
       finns nu i Korp.</p>
-    en:
+    eng:
       <p>Korpussamlingen <a href="?mode=all_hist#?corpus=ub-kvt-dagny,ub-kvt-hertha,ub-kvt-idun,ub-kvt-kvt,ub-kvt-morgonbris,ub-kvt-rostratt,ub-kvt-tidevarvet"><em>Kvinnotidningar</em></a>
       finns nu i Korp.</p>
   created: 2015-03-19
