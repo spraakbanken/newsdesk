@@ -1,14 +1,14 @@
 ---
 - title:
-    swe: "Ny korpus: Tvåkammarriksdagen "
-    eng: "Ny korpus: Tvåkammarriksdagen "
+    swe: "Ny korpus: Tvåkammarriksdagen"
+    eng: "New corpus: Tvåkammarriksdagen"
   body:
     sv:
       <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
       finns nu i Korp.</p>
     en:
       <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
-      finns nu i Korp.</p>
+      is now available in Korp.</p>
   created: 2023-11-30
 - title:
     swe: "Ny korpus: SAOB1950 "
