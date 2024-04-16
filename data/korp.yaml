@@ -1,7 +1,7 @@
 ---
 - title:
-    sv: "Ny korpus: Tvåkammarriksdagen "
-    en: "Ny korpus: Tvåkammarriksdagen "
+    swe: "Ny korpus: Tvåkammarriksdagen "
+    eng: "Ny korpus: Tvåkammarriksdagen "
   body:
     sv:
       <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
@@ -11,57 +11,57 @@
       finns nu i Korp.</p>
   created: 2023-11-30
 - title:
-    sv: "Ny korpus: SAOB1950 "
-    en: "Ny korpus: SAOB1950 "
+    swe: "Ny korpus: SAOB1950 "
+    eng: "Ny korpus: SAOB1950 "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=saob-bocker">SAOB1950</a> finns nu
+    swe: <p><a href="?mode=default#?&amp;corpus=saob-bocker">SAOB1950</a> finns nu
       i Korp innehållandes skannade monografier från 1950 till 2007.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=saob-bocker">SAOB1950</a> finns nu
+    eng: <p><a href="?mode=default#?&amp;corpus=saob-bocker">SAOB1950</a> finns nu
       i Korp innehållandes skannade monografier från 1950 till 2007.</p>
   created: 2023-11-30
 - title:
-    sv: "Svenska Wikipedia uppdaterad "
-    en: "Svenska Wikipedia uppdaterad "
+    swe: "Svenska Wikipedia uppdaterad "
+    eng: "Svenska Wikipedia uppdaterad "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=wikipedia-sv">Svenska Wikipedia</a>
+    swe: <p><a href="?mode=default#?&amp;corpus=wikipedia-sv">Svenska Wikipedia</a>
       har uppdaterats med nytt material.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=wikipedia-sv">Svenska Wikipedia</a>
+    eng: <p><a href="?mode=default#?&amp;corpus=wikipedia-sv">Svenska Wikipedia</a>
       har uppdaterats med nytt material.</p>
   created: 2023-05-12
 - title:
-    sv: "Svenska partiprogram och valmanifest uppdaterad "
-    en: "Svenska partiprogram och valmanifest uppdaterad "
+    swe: "Svenska partiprogram och valmanifest uppdaterad "
+    eng: "Svenska partiprogram och valmanifest uppdaterad "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
+    swe: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
       har uppdaterats med nytt material.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
+    eng: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
       har uppdaterats med nytt material.</p>
   created: 2022-09-09
 - title:
-    sv: "Korpusar under uppdatering: Riksdagens öppna data "
-    en: "Korpusar under uppdatering: Riksdagens öppna data "
+    swe: "Korpusar under uppdatering: Riksdagens öppna data "
+    eng: "Korpusar under uppdatering: Riksdagens öppna data "
   body:
-    sv: |-
+    swe: |-
       <p>Texterna från <a href="?mode=default#?corpus=rd-bet,rd-ds,rd-eun,rd-fpm,rd-frsrdg,rd-flista,rd-ip,rd-kammakt,rd-kom,rd-mot,rd-prop,rd-prot,rd-rskr,rd-samtr,rd-skfr,rd-sou,rd-tlista,rd-utr,rd-utsk,rd-yttr,rd-ovr"><em>riksdagens öppna data</em></a>
       är just nu under uppdatering. Vi har hämtat in det nya materialet från <a href="https://data.riksdagen.se/data/dokument/" target="_blank">https://data.riksdagen.se/data/dokument/</a> och lägger
       in allt i Korp gradvis.</p>
-    en: |-
+    eng: |-
       <p>Texterna från <a href="?mode=default#?corpus=rd-bet,rd-ds,rd-eun,rd-fpm,rd-frsrdg,rd-flista,rd-ip,rd-kammakt,rd-kom,rd-mot,rd-prop,rd-prot,rd-rskr,rd-samtr,rd-skfr,rd-sou,rd-tlista,rd-utr,rd-utsk,rd-yttr,rd-ovr"><em>riksdagens öppna data</em></a>
       är just nu under uppdatering. Vi har hämtat in det nya materialet från <a href="https://data.riksdagen.se/data/dokument/" target="_blank">https://data.riksdagen.se/data/dokument/</a> och lägger
       in allt i Korp gradvis.</p>
   created: 2022-09-05
 - title:
-    sv: "Svenska partiprogram och valmanifest uppdaterad "
-    en: "Svenska partiprogram och valmanifest uppdaterad "
+    swe: "Svenska partiprogram och valmanifest uppdaterad "
+    eng: "Svenska partiprogram och valmanifest uppdaterad "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
+    swe: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
       har uppdaterats med nytt material.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
+    eng: <p><a href="?mode=default#?&amp;corpus=vivill">Svenska partiprogram och valmanifest</a>
       har uppdaterats med nytt material.</p>
   created: 2022-06-14
 - title:
-    sv: "Uppdaterat material: Familjeliv och Flashback "
-    en: "Uppdaterat material: Familjeliv och Flashback "
+    swe: "Uppdaterat material: Familjeliv och Flashback "
+    eng: "Uppdaterat material: Familjeliv och Flashback "
   body:
     sv:
       <p>Korpussamlingarna <a href="?mode=default#?&amp;corpus=familjeliv-adoption,familjeliv-allmanna-ekonomi,familjeliv-allmanna-familjeliv,familjeliv-allmanna-fritid,familjeliv-allmanna-hushem,familjeliv-allmanna-husdjur,familjeliv-allmanna-kropp,familjeliv-allmanna-noje,familjeliv-allmanna-samhalle,familjeliv-allmanna-sandladan,familjeliv-expert,familjeliv-foralder,familjeliv-gravid,familjeliv-kansliga,familjeliv-medlem-allmanna,familjeliv-medlem-foraldrar,familjeliv-medlem-planerarbarn,familjeliv-medlem-vantarbarn,familjeliv-pappagrupp,familjeliv-planerarbarn,familjeliv-sexsamlevnad,familjeliv-svartattfabarn,familjeliv-anglarum,flashback-dator,flashback-droger,flashback-ekonomi,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback">Familjeliv
@@ -73,8 +73,8 @@
       och med år 2021.</p>
   created: 2022-05-06
 - title:
-    sv: "Uppdaterat material: SVT-nyheter "
-    en: "Uppdaterat material: SVT-nyheter "
+    swe: "Uppdaterat material: SVT-nyheter "
+    eng: "Uppdaterat material: SVT-nyheter "
   body:
     sv:
       <p>Materialet i <a href="?mode=default#?&amp;corpus=svt-2004,svt-2005,svt-2006,svt-2007,svt-2008,svt-2009,svt-2010,svt-2011,svt-2012,svt-2013,svt-2014,svt-2015,svt-2016,svt-2017,svt-2018,svt-2019,svt-2020,svt-2021,svt-2022,svt-nodate">SVT-nyheterna</a>
@@ -84,157 +84,157 @@
       har uppdaterats med aktuella nyhetsartiklar och delats upp årsvis.</p>
   created: 2022-04-01
 - title:
-    sv: "Ny korpus i Korp: Podiet "
-    en: "Ny korpus i Korp: Podiet "
+    swe: "Ny korpus i Korp: Podiet "
+    eng: "Ny korpus i Korp: Podiet "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=podiet">Artiklar från Konsertmagasinet
+    swe: <p><a href="?mode=default#?&amp;corpus=podiet">Artiklar från Konsertmagasinet
       Podiet</a> finns nu i Korp.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=podiet">Artiklar från Konsertmagasinet
+    eng: <p><a href="?mode=default#?&amp;corpus=podiet">Artiklar från Konsertmagasinet
       Podiet</a> finns nu i Korp.</p>
   created: 2022-02-03
 - title:
-    sv: "Ny korpus i Korp: Dagens Arena "
-    en: "Ny korpus i Korp: Dagens Arena "
+    swe: "Ny korpus i Korp: Dagens Arena "
+    eng: "Ny korpus i Korp: Dagens Arena "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=da">Webbnyheter från Dagens Arena</a>
+    swe: <p><a href="?mode=default#?&amp;corpus=da">Webbnyheter från Dagens Arena</a>
       finns nu i Korp.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=da">Webbnyheter från Dagens Arena</a>
+    eng: <p><a href="?mode=default#?&amp;corpus=da">Webbnyheter från Dagens Arena</a>
       finns nu i Korp.</p>
   created: 2022-01-19
 - title:
-    sv: "Ny korpus i Korp: SVT-nyheter "
-    en: "Ny korpus i Korp: SVT-nyheter "
+    swe: "Ny korpus i Korp: SVT-nyheter "
+    eng: "Ny korpus i Korp: SVT-nyheter "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=svt">Webbnyheter från SVT</a> finns
+    swe: <p><a href="?mode=default#?&amp;corpus=svt">Webbnyheter från SVT</a> finns
       nu i Korp.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=svt">Webbnyheter från SVT</a> finns
+    eng: <p><a href="?mode=default#?&amp;corpus=svt">Webbnyheter från SVT</a> finns
       nu i Korp.</p>
   created: 2021-10-26
 - title:
-    sv: "Ny funktion i Korp: Sök på gräns "
-    en: "Ny funktion i Korp: Sök på gräns "
+    swe: "Ny funktion i Korp: Sök på gräns "
+    eng: "Ny funktion i Korp: Sök på gräns "
   body:
-    sv: |-
+    swe: |-
       <p>Nu finns möjligheten att söka på olika gränsenheter, som mening och stycke, i den utökade sökningen.</p>
       <p>Klicka på "Utökad" och sedan "Lägg till gräns" och välj "först" eller "sist". Välj sedan en gräns från dropdown-menyn, t.ex. mening, och om gränsen ska börja eller sluta på den platsen som lådan är placerad.</p>
       <p>Man kan också titta på <a href="https://spraakbanken.gu.se/korp/#?cqp=%3Csentence%3E%20%5Bword%20%3D%20%22L%C3%A5ngt%22%5D%20%5B%5D%7B25,30%7D&corpus=romi&search=cqp&search_tab=1
       " target="_blank">ett exempel</a>.</p>
-    en: |-
+    eng: |-
       <p>Nu finns möjligheten att söka på olika gränsenheter, som mening och stycke, i den utökade sökningen.</p>
       <p>Klicka på "Utökad" och sedan "Lägg till gräns" och välj "först" eller "sist". Välj sedan en gräns från dropdown-menyn, t.ex. mening, och om gränsen ska börja eller sluta på den platsen som lådan är placerad.</p>
       <p>Man kan också titta på <a href="https://spraakbanken.gu.se/korp/#?cqp=%3Csentence%3E%20%5Bword%20%3D%20%22L%C3%A5ngt%22%5D%20%5B%5D%7B25,30%7D&corpus=romi&search=cqp&search_tab=1
       " target="_blank">ett exempel</a>.</p>
   created: 2021-09-22
 - title:
-    sv: "Ny korpus: Stockholm Internet Corpus "
-    en: "Ny korpus: Stockholm Internet Corpus "
+    swe: "Ny korpus: Stockholm Internet Corpus "
+    eng: "Ny korpus: Stockholm Internet Corpus "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=sic2">Stockholm Internet Corpus (SIC2)</a>
+    swe: <p><a href="?mode=default#?&amp;corpus=sic2">Stockholm Internet Corpus (SIC2)</a>
       med manuella annoteringar finns nu i Korp.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=sic2">Stockholm Internet Corpus (SIC2)</a>
+    eng: <p><a href="?mode=default#?&amp;corpus=sic2">Stockholm Internet Corpus (SIC2)</a>
       med manuella annoteringar finns nu i Korp.</p>
   created: 2020-11-15
 - title:
-    sv: "Ny korpus: Anföranden ur riksdagens öppna data "
-    en: "Ny korpus: Anföranden ur riksdagens öppna data "
+    swe: "Ny korpus: Anföranden ur riksdagens öppna data "
+    eng: "Ny korpus: Anföranden ur riksdagens öppna data "
   body:
-    sv: <p><a href="?mode=default#?&amp;corpus=rd-anf">Tal av riksdagsledamöterna</a>
+    swe: <p><a href="?mode=default#?&amp;corpus=rd-anf">Tal av riksdagsledamöterna</a>
       med rik metadata finns nu i Korp.</p>
-    en: <p><a href="?mode=default#?&amp;corpus=rd-anf">Tal av riksdagsledamöterna</a>
+    eng: <p><a href="?mode=default#?&amp;corpus=rd-anf">Tal av riksdagsledamöterna</a>
       med rik metadata finns nu i Korp.</p>
   created: 2020-02-10
 - title:
-    sv: "Nya korpusar: Twitter-2015, Twitter-2016 och Twitter-2017 "
-    en: "Nya korpusar: Twitter-2015, Twitter-2016 och Twitter-2017 "
+    swe: "Nya korpusar: Twitter-2015, Twitter-2016 och Twitter-2017 "
+    eng: "Nya korpusar: Twitter-2015, Twitter-2016 och Twitter-2017 "
   body:
-    sv: <p><a href="?mode=default#?corpus=twitter-2015,twitter-2016,twitter-2017">Tweets
+    swe: <p><a href="?mode=default#?corpus=twitter-2015,twitter-2016,twitter-2017">Tweets
       från 2015, 2016 och 2017</a> från ett urval av svenskspråkiga Twitteranvändare.</p>
-    en: <p><a href="?mode=default#?corpus=twitter-2015,twitter-2016,twitter-2017">Tweets
+    eng: <p><a href="?mode=default#?corpus=twitter-2015,twitter-2016,twitter-2017">Tweets
       från 2015, 2016 och 2017</a> från ett urval av svenskspråkiga Twitteranvändare.</p>
   created: 2018-02-14
 - title:
-    sv: "8 Sidor uppdaterad "
-    en: "8 Sidor uppdaterad "
+    swe: "8 Sidor uppdaterad "
+    eng: "8 Sidor uppdaterad "
   body:
-    sv: <p>Korpusen <a href="?mode=default#?corpus=attasidor">8 Sidor</a> har uppdaterats
+    swe: <p>Korpusen <a href="?mode=default#?corpus=attasidor">8 Sidor</a> har uppdaterats
       med stora mängder nytt material.</p>
-    en: <p>Korpusen <a href="?mode=default#?corpus=attasidor">8 Sidor</a> har uppdaterats
+    eng: <p>Korpusen <a href="?mode=default#?corpus=attasidor">8 Sidor</a> har uppdaterats
       med stora mängder nytt material.</p>
   created: 2017-10-12
 - title:
-    sv: "Familjeliv uppdaterad "
-    en: "Familjeliv uppdaterad "
+    swe: "Familjeliv uppdaterad "
+    eng: "Familjeliv uppdaterad "
   body:
-    sv: |-
+    swe: |-
       <p><a href="?mode=default#?corpus=familjeliv-adoption,familjeliv-allmanna-ekonomi,familjeliv-allmanna-familjeliv,familjeliv-allmanna-fritid,familjeliv-allmanna-hushem,familjeliv-allmanna-husdjur,familjeliv-allmanna-kropp,familjeliv-allmanna-noje,familjeliv-allmanna-samhalle,familjeliv-allmanna-sandladan,familjeliv-expert,familjeliv-foralder,familjeliv-gravid,familjeliv-kansliga,familjeliv-medlem-allmanna,familjeliv-medlem-foraldrar,familjeliv-medlem-planerarbarn,familjeliv-medlem-vantarbarn,familjeliv-pappagrupp,familjeliv-planerarbarn,familjeliv-sexsamlevnad,familjeliv-svartattfabarn,familjeliv-anglarum"><em>Familjeliv</em></a>-korpusarna har
       uppdaterats under sommaren, och har vuxit med drygt 130 miljoner token sedan senaste uppdateringen.</p>
-    en: |-
+    eng: |-
       <p><a href="?mode=default#?corpus=familjeliv-adoption,familjeliv-allmanna-ekonomi,familjeliv-allmanna-familjeliv,familjeliv-allmanna-fritid,familjeliv-allmanna-hushem,familjeliv-allmanna-husdjur,familjeliv-allmanna-kropp,familjeliv-allmanna-noje,familjeliv-allmanna-samhalle,familjeliv-allmanna-sandladan,familjeliv-expert,familjeliv-foralder,familjeliv-gravid,familjeliv-kansliga,familjeliv-medlem-allmanna,familjeliv-medlem-foraldrar,familjeliv-medlem-planerarbarn,familjeliv-medlem-vantarbarn,familjeliv-pappagrupp,familjeliv-planerarbarn,familjeliv-sexsamlevnad,familjeliv-svartattfabarn,familjeliv-anglarum"><em>Familjeliv</em></a>-korpusarna har
       uppdaterats under sommaren, och har vuxit med drygt 130 miljoner token sedan senaste uppdateringen.</p>
   created: 2017-09-22
 - title:
-    sv: "Ny korpus: Poeter.se "
-    en: "Ny korpus: Poeter.se "
+    swe: "Ny korpus: Poeter.se "
+    eng: "Ny korpus: Poeter.se "
   body:
-    sv: <p>Poesi insamlad från Poeter.se finns nu som <a href="?mode=default#?corpus=poeter">korpus
+    swe: <p>Poesi insamlad från Poeter.se finns nu som <a href="?mode=default#?corpus=poeter">korpus
       i Korp</a>.</p>
-    en: <p>Poesi insamlad från Poeter.se finns nu som <a href="?mode=default#?corpus=poeter">korpus
+    eng: <p>Poesi insamlad från Poeter.se finns nu som <a href="?mode=default#?corpus=poeter">korpus
       i Korp</a>.</p>
   created: 2017-04-20
 - title:
-    sv: "Flashback uppdaterad "
-    en: "Flashback uppdaterad "
+    swe: "Flashback uppdaterad "
+    eng: "Flashback uppdaterad "
   body:
-    sv: |-
+    swe: |-
       <p><a href="?mode=default#?corpus=flashback-dator,flashback-droger,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback"><em>Flashback</em></a>-korpusarna har
       uppdaterats under den senaste månden, och har vuxit med drygt 500 miljoner token sedan senaste uppdateringen.</p>
-    en: |-
+    eng: |-
       <p><a href="?mode=default#?corpus=flashback-dator,flashback-droger,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback"><em>Flashback</em></a>-korpusarna har
       uppdaterats under den senaste månden, och har vuxit med drygt 500 miljoner token sedan senaste uppdateringen.</p>
   created: 2017-04-19
 - title:
-    sv: "Ny korpus: Läkartidningen 2006 "
-    en: "Ny korpus: Läkartidningen 2006 "
+    swe: "Ny korpus: Läkartidningen 2006 "
+    eng: "Ny korpus: Läkartidningen 2006 "
   body:
-    sv: <p><a href="?mode=default#?corpus=lt2006">Läkartidningen 2006</a> finns nu
+    swe: <p><a href="?mode=default#?corpus=lt2006">Läkartidningen 2006</a> finns nu
       som korpus.</p>
-    en: <p><a href="?mode=default#?corpus=lt2006">Läkartidningen 2006</a> finns nu
+    eng: <p><a href="?mode=default#?corpus=lt2006">Läkartidningen 2006</a> finns nu
       som korpus.</p>
   created: 2017-04-03
 - title:
-    sv: "Nya korpusar: Bloggmix 2016 och 2017 "
-    en: "Nya korpusar: Bloggmix 2016 och 2017 "
+    swe: "Nya korpusar: Bloggmix 2016 och 2017 "
+    eng: "Nya korpusar: Bloggmix 2016 och 2017 "
   body:
-    sv: "<p>Bloggmix 2016 och 2017 finns nu i Korp! Bloggmix 2017 kommer att fyllas
+    swe: "<p>Bloggmix 2016 och 2017 finns nu i Korp! Bloggmix 2017 kommer att fyllas
       på med mer material under året.</p>"
-    en: "<p>Bloggmix 2016 och 2017 finns nu i Korp! Bloggmix 2017 kommer att fyllas
+    eng: "<p>Bloggmix 2016 och 2017 finns nu i Korp! Bloggmix 2017 kommer att fyllas
       på med mer material under året.</p>"
   created: 2017-03-01
 - title:
-    sv: "Riksdagens öppna data nu komplett "
-    en: "Riksdagens öppna data nu komplett "
+    swe: "Riksdagens öppna data nu komplett "
+    eng: "Riksdagens öppna data nu komplett "
   body:
-    sv: |-
+    swe: |-
       <p>Hela <a href="?mode=default#?corpus=rd-bet,rd-ds,rd-eun,rd-fpm,rd-frsrdg,rd-flista,rd-ip,rd-kammakt,rd-kom,rd-mot,rd-prop,rd-prot,rd-rskr,rd-samtr,rd-skfr,rd-sou,rd-tlista,rd-utr,rd-utsk,rd-yttr,rd-ovr"><em>riksdagens öppna data</em></a>
       är nu sökbar i Korp.</p>
-    en: |-
+    eng: |-
       <p>Hela <a href="?mode=default#?corpus=rd-bet,rd-ds,rd-eun,rd-fpm,rd-frsrdg,rd-flista,rd-ip,rd-kammakt,rd-kom,rd-mot,rd-prop,rd-prot,rd-rskr,rd-samtr,rd-skfr,rd-sou,rd-tlista,rd-utr,rd-utsk,rd-yttr,rd-ovr"><em>riksdagens öppna data</em></a>
       är nu sökbar i Korp.</p>
   created: 2017-02-06
 - title:
-    sv: "Svenska Wikipedia uppdaterad "
-    en: "Svenska Wikipedia uppdaterad "
+    swe: "Svenska Wikipedia uppdaterad "
+    eng: "Svenska Wikipedia uppdaterad "
   body:
-    sv: |-
+    swe: |-
       <p><a href="?mode=default#?corpus=wikipedia-sv"><em>Svenska Wikipedia</em></a>-korpusen har
       uppdaterats, och har vuxit med nästan 220 miljoner token sedan senaste uppdateringen.</p>
-    en: |-
+    eng: |-
       <p><a href="?mode=default#?corpus=wikipedia-sv"><em>Svenska Wikipedia</em></a>-korpusen har
       uppdaterats, och har vuxit med nästan 220 miljoner token sedan senaste uppdateringen.</p>
   created: 2017-01-30
 - title:
-    sv: "Ny korpus: Riksdagens öppna data "
-    en: "Ny korpus: Riksdagens öppna data "
+    swe: "Ny korpus: Riksdagens öppna data "
+    eng: "Ny korpus: Riksdagens öppna data "
   body:
     sv:
       <p>En del av <a href="?mode=default#?corpus=rd-bet,rd-flista,rd-kammakt,rd-rskr,rd-samtr,rd-sou,rd-tlista"><em>riksdagens
@@ -246,77 +246,77 @@
       samlingen också.</p>
   created: 2016-12-15
 - title:
-    sv: "Ny korpus: Etnologiska frågelistor "
-    en: "Ny korpus: Etnologiska frågelistor "
+    swe: "Ny korpus: Etnologiska frågelistor "
+    eng: "Ny korpus: Etnologiska frågelistor "
   body:
-    sv: <p>Nordiska museets <a href="?mode=all_hist#?corpus=fragelistor"><em>etnologiska
+    swe: <p>Nordiska museets <a href="?mode=all_hist#?corpus=fragelistor"><em>etnologiska
       frågelistor</em></a> finns nu i Korp!</p>
-    en: <p>Nordiska museets <a href="?mode=all_hist#?corpus=fragelistor"><em>etnologiska
+    eng: <p>Nordiska museets <a href="?mode=all_hist#?corpus=fragelistor"><em>etnologiska
       frågelistor</em></a> finns nu i Korp!</p>
   created: 2016-12-15
 - title:
-    sv: "Ny korpus: Bloggmix 2015 "
-    en: "Ny korpus: Bloggmix 2015 "
+    swe: "Ny korpus: Bloggmix 2015 "
+    eng: "Ny korpus: Bloggmix 2015 "
   body:
-    sv: "<p>Bloggmix 2015 finns nu i Korp!</p>"
-    en: "<p>Bloggmix 2015 finns nu i Korp!</p>"
+    swe: "<p>Bloggmix 2015 finns nu i Korp!</p>"
+    eng: "<p>Bloggmix 2015 finns nu i Korp!</p>"
   created: 2016-03-24
 - title:
-    sv: "Sammanställning på flera attribut "
-    en: "Sammanställning på flera attribut "
+    swe: "Sammanställning på flera attribut "
+    eng: "Sammanställning på flera attribut "
   body:
-    sv: '<p>Nu kan man i sökinställningarna välja flera attribut för statistiksammanställningen.
+    swe: '<p>Nu kan man i sökinställningarna välja flera attribut för statistiksammanställningen.
       Klicka på "sammanställ på: ord" och välj ett eller flera attribut. Det går fortfarande
       att sammanställa skiftlägesoberoende genom att trycka på symbolen till höger
       om ord.</p>'
-    en: '<p>Nu kan man i sökinställningarna välja flera attribut för statistiksammanställningen.
+    eng: '<p>Nu kan man i sökinställningarna välja flera attribut för statistiksammanställningen.
       Klicka på "sammanställ på: ord" och välj ett eller flera attribut. Det går fortfarande
       att sammanställa skiftlägesoberoende genom att trycka på symbolen till höger
       om ord.</p>'
   created: 2016-02-02
 - title:
-    sv: "Ny korpus: Betänkande "
-    en: "Ny korpus: Betänkande "
+    swe: "Ny korpus: Betänkande "
+    eng: "Ny korpus: Betänkande "
   body:
-    sv: <p>Nu finns det <a href="?mode=all_hist#?corpus=betankande"><em>en ny historisk
+    swe: <p>Nu finns det <a href="?mode=all_hist#?corpus=betankande"><em>en ny historisk
       korpus</em></a> i Korp som handlar om grammatiska läroböcker.</p>
-    en: <p>Nu finns det <a href="?mode=all_hist#?corpus=betankande"><em>en ny historisk
+    eng: <p>Nu finns det <a href="?mode=all_hist#?corpus=betankande"><em>en ny historisk
       korpus</em></a> i Korp som handlar om grammatiska läroböcker.</p>
   created: 2015-12-10
 - title:
-    sv: "Somaliska "
-    en: "Somaliska "
+    swe: "Somaliska "
+    eng: "Somaliska "
   body:
-    sv: <p>Sedan en liten tid tillbaka finns det en samling <a href="?mode=somali"><em>somaliska
+    swe: <p>Sedan en liten tid tillbaka finns det en samling <a href="?mode=somali"><em>somaliska
       korpusar</em></a> i Korp.</p>
-    en: <p>Sedan en liten tid tillbaka finns det en samling <a href="?mode=somali"><em>somaliska
+    eng: <p>Sedan en liten tid tillbaka finns det en samling <a href="?mode=somali"><em>somaliska
       korpusar</em></a> i Korp.</p>
   created: 2015-12-07
 - title:
-    sv: "Ny funktion: Kartsökning "
-    en: "Ny funktion: Kartsökning "
+    swe: "Ny funktion: Kartsökning "
+    eng: "Ny funktion: Kartsökning "
   body:
-    sv: "<p>Nu finns en ny flik i sökresultatet där det visas en karta med platser
+    swe: "<p>Nu finns en ny flik i sökresultatet där det visas en karta med platser
       som förekommer i sökresultatet. Om man klickar på en markör så har man möjlighet
       att göra en ny sökning med samma parametrar, men filtrerat på meningar där platsen
       ingår.</p>"
-    en: "<p>Nu finns en ny flik i sökresultatet där det visas en karta med platser
+    eng: "<p>Nu finns en ny flik i sökresultatet där det visas en karta med platser
       som förekommer i sökresultatet. Om man klickar på en markör så har man möjlighet
       att göra en ny sökning med samma parametrar, men filtrerat på meningar där platsen
       ingår.</p>"
   created: 2015-10-26
 - title:
-    sv: "Faksimiler i Kubhist-korpusarna "
-    en: "Faksimiler i Kubhist-korpusarna "
+    swe: "Faksimiler i Kubhist-korpusarna "
+    eng: "Faksimiler i Kubhist-korpusarna "
   body:
-    sv: "<p>När man inspekterar ett ord i Kubhist så finns numera källan i form av
+    swe: "<p>När man inspekterar ett ord i Kubhist så finns numera källan i form av
       en faksimil med en länk till Kungliga Bibliotekets magasin.</p>"
-    en: "<p>När man inspekterar ett ord i Kubhist så finns numera källan i form av
+    eng: "<p>När man inspekterar ett ord i Kubhist så finns numera källan i form av
       en faksimil med en länk till Kungliga Bibliotekets magasin.</p>"
   created: 2015-10-26
 - title:
-    sv: "Aftonbladet "
-    en: "Aftonbladet "
+    swe: "Aftonbladet "
+    eng: "Aftonbladet "
   body:
     sv:
       <p><a href="?mode=kubhist#?corpus=kubhist-aftonbladet-1830,kubhist-aftonbladet-1840,kubhist-aftonbladet-1850,kubhist-aftonbladet-1860"><em>Aftonbladet
@@ -326,28 +326,28 @@
       1831-1862</em></a> finns nu i Korp.</p>
   created: 2015-04-23
 - title:
-    sv: "Sibirientyska kvinnor "
-    en: "Sibirientyska kvinnor "
+    swe: "Sibirientyska kvinnor "
+    eng: "Sibirientyska kvinnor "
   body:
-    sv: '<p>En ny sibirientysk korpus finns nu i Korp: <a href="?mode=siberian_german"><em>Sibirientyska
+    swe: '<p>En ny sibirientysk korpus finns nu i Korp: <a href="?mode=siberian_german"><em>Sibirientyska
       kvinnor</em></a>.</p>'
-    en: '<p>En ny sibirientysk korpus finns nu i Korp: <a href="?mode=siberian_german"><em>Sibirientyska
+    eng: '<p>En ny sibirientysk korpus finns nu i Korp: <a href="?mode=siberian_german"><em>Sibirientyska
       kvinnor</em></a>.</p>'
   created: 2015-04-22
 - title:
-    sv: "Nytt reglage för att byta sida i KWIC:en "
-    en: "Nytt reglage för att byta sida i KWIC:en "
+    swe: "Nytt reglage för att byta sida i KWIC:en "
+    eng: "Nytt reglage för att byta sida i KWIC:en "
   body:
-    sv: "<p>Sidbläddraren ligger nu både ovanför och nedanför KWIC-resultaten. Ett
+    swe: "<p>Sidbläddraren ligger nu både ovanför och nedanför KWIC-resultaten. Ett
       nytt fält för att gå till valfri sida har lagts till. Och du visste väl att
       du kan byta sida med tangentbordet? (n)ästa och (f)öregående.</p>"
-    en: "<p>Sidbläddraren ligger nu både ovanför och nedanför KWIC-resultaten. Ett
+    eng: "<p>Sidbläddraren ligger nu både ovanför och nedanför KWIC-resultaten. Ett
       nytt fält för att gå till valfri sida har lagts till. Och du visste väl att
       du kan byta sida med tangentbordet? (n)ästa och (f)öregående.</p>"
   created: 2015-04-09
 - title:
-    sv: "Kvinnotidningar "
-    en: "Kvinnotidningar "
+    swe: "Kvinnotidningar "
+    eng: "Kvinnotidningar "
   body:
     sv:
       <p>Korpussamlingen <a href="?mode=all_hist#?corpus=ub-kvt-dagny,ub-kvt-hertha,ub-kvt-idun,ub-kvt-kvt,ub-kvt-morgonbris,ub-kvt-rostratt,ub-kvt-tidevarvet"><em>Kvinnotidningar</em></a>
@@ -357,61 +357,61 @@
       finns nu i Korp.</p>
   created: 2015-03-19
 - title:
-    sv: "Flashback uppdaterad "
-    en: "Flashback uppdaterad "
+    swe: "Flashback uppdaterad "
+    eng: "Flashback uppdaterad "
   body:
-    sv: |-
+    swe: |-
       <p><a href="?mode=default#?corpus=flashback-dator,flashback-droger,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback"><em>Flashback</em></a>-korpusarna har
       uppdaterats under den senaste månden, och har vuxit med c:a 170 miljoner token sedan senaste uppdateringen.</p>
-    en: |-
+    eng: |-
       <p><a href="?mode=default#?corpus=flashback-dator,flashback-droger,flashback-fordon,flashback-hem,flashback-kultur,flashback-livsstil,flashback-mat,flashback-politik,flashback-resor,flashback-samhalle,flashback-sex,flashback-sport,flashback-vetenskap,flashback-ovrigt,flashback-flashback"><em>Flashback</em></a>-korpusarna har
       uppdaterats under den senaste månden, och har vuxit med c:a 170 miljoner token sedan senaste uppdateringen.</p>
   created: 2015-03-02
 - title:
-    sv: "Statens offentliga utredningar "
-    en: "Statens offentliga utredningar "
+    swe: "Statens offentliga utredningar "
+    eng: "Statens offentliga utredningar "
   body:
-    sv: <p><a href="?mode=default#?corpus=sou"><em>Statens offentliga utredningar</em></a>
+    swe: <p><a href="?mode=default#?corpus=sou"><em>Statens offentliga utredningar</em></a>
       finns nu som korpus i Korp, med drygt 426 miljoner token.</p>
-    en: <p><a href="?mode=default#?corpus=sou"><em>Statens offentliga utredningar</em></a>
+    eng: <p><a href="?mode=default#?corpus=sou"><em>Statens offentliga utredningar</em></a>
       finns nu som korpus i Korp, med drygt 426 miljoner token.</p>
   created: 2015-02-27
 - title:
-    sv: "Äldre Eddan "
-    en: "Äldre Eddan "
+    swe: "Äldre Eddan "
+    eng: "Äldre Eddan "
   body:
-    sv: <p>Korpusen <a href="?mode=eddan"><em>Äldre Eddan</em></a> finns nu i Korp.</p>
-    en: <p>Korpusen <a href="?mode=eddan"><em>Äldre Eddan</em></a> finns nu i Korp.</p>
+    swe: <p>Korpusen <a href="?mode=eddan"><em>Äldre Eddan</em></a> finns nu i Korp.</p>
+    eng: <p>Korpusen <a href="?mode=eddan"><em>Äldre Eddan</em></a> finns nu i Korp.</p>
   created: 2015-01-19
 - title:
-    sv: "Bellmans samlade verk "
-    en: "Bellmans samlade verk "
+    swe: "Bellmans samlade verk "
+    eng: "Bellmans samlade verk "
   body:
-    sv: <p>Korpusen <a href="?mode=bellman"><em>Bellmans samlade verk</em></a> finns
+    swe: <p>Korpusen <a href="?mode=bellman"><em>Bellmans samlade verk</em></a> finns
       nu i Korp.</p>
-    en: <p>Korpusen <a href="?mode=bellman"><em>Bellmans samlade verk</em></a> finns
+    eng: <p>Korpusen <a href="?mode=bellman"><em>Bellmans samlade verk</em></a> finns
       nu i Korp.</p>
   created: 2015-01-16
 - title:
-    sv: "Familjeliv "
-    en: "Familjeliv "
+    swe: "Familjeliv "
+    eng: "Familjeliv "
   body:
-    sv: "<p>Hela Familjeliv med sina drygt fyra miljarder token har nu samlats in
+    swe: "<p>Hela Familjeliv med sina drygt fyra miljarder token har nu samlats in
       och ligger i Korp, uppdelat i en mängd korpusar. Ni hittar dem under <em>Sociala
       medier &gt; Diskussionsforum</em>.</p>"
-    en: "<p>Hela Familjeliv med sina drygt fyra miljarder token har nu samlats in
+    eng: "<p>Hela Familjeliv med sina drygt fyra miljarder token har nu samlats in
       och ligger i Korp, uppdelat i en mängd korpusar. Ni hittar dem under <em>Sociala
       medier &gt; Diskussionsforum</em>.</p>"
   created: 2014-10-06
 - title:
-    sv: "Ordlänkning "
-    en: "Word linking "
+    swe: "Ordlänkning "
+    eng: "Word linking "
   body:
-    sv: |-
+    swe: |-
       <p>Nytt i de parallella materialen är <em>ordlänkning</em>. Just nu stöds bara SALT-NLD men fler kommer.
       Prova att göra <a href="?mode=parallel#?parallel_corpora=swe&amp;corpus=saltnld-sv&amp;cqp_swe=%5Bword%20%3D%20%22katt%22%5D&amp;search=cqp%7C%5Bword%20%3D%20%22katt%22%5D">denna sökning</a>
       och klicka sedan runt på orden för att se vilka de länkar till.</p>
-    en: |-
+    eng: |-
       <p>Nytt i de parallella materialen är <em>ordlänkning</em>. Just nu stöds bara SALT-NLD men fler kommer.
       Prova att göra <a href="?mode=parallel#?parallel_corpora=swe&amp;corpus=saltnld-sv&amp;cqp_swe=%5Bword%20%3D%20%22katt%22%5D&amp;search=cqp%7C%5Bword%20%3D%20%22katt%22%5D">denna sökning</a>
       och klicka sedan runt på orden för att se vilka de länkar till.</p>
