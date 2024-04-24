@@ -16,10 +16,10 @@
   body:
     swe: |
       Nu kan du som avancerad användare ladda upp en egen Sparv-config för att ange hur du vill få din korpus annoterad.
-      Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.
+      Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">ändringsloggen</a>.
     eng: |
       As an advanced user, you can now submit a customized Sparv config file detailing the analysis of your corpus.
-      Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.
+      Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">changelog</a>.
   created: 2024-04-23
   tags:
     - release
