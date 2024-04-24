@@ -3,8 +3,8 @@
     swe: "Planerat serverunderhåll"
     eng: "Scheduled server maintenance"
   body:
-    swe: Måndagen 29 april och torsdagen 2 maj planeras underhållsarbete av servrarna som Mink kör på. Underhåll sker 18–02, med risk för störningar även efterföljande natt och morgon.
-    eng: Maintenance is scheduled on Monday, April 29 and Thursday, May 2 on servers that host the Mink service. The scheduled time window is 18–02 (CEST), but disturbances may be expected also during the following night and morning.
+    swe: Måndagen 29 april och torsdagen 2 maj planeras underhållsarbete av servrarna som Mink kör på. Underhåll sker klockan 18–02, med risk för störningar även efterföljande natt och morgon.
+    eng: Maintenance is scheduled on Monday, April 29 and Thursday, May 2 on servers that host the Mink service. The scheduled time window is 6 p.m. to 2 a.m. (CEST), but disturbances may be expected also during the following night and morning.
   created: 2024-04-24
   expires: 2024-05-04
   tags:
@@ -14,8 +14,12 @@
     swe: "Mink frontend v1.5.0 släppt"
     eng: "Mink frontend v1.5.0 released"
   body:
-    swe: Nu kan du som avancerad användare ladda upp en egen Sparv-config för att ange hur du vill få din korpus annoterad. Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
-    eng: As an advanced user, you can now submit a customized Sparv config file detailing the analysis of your corpus. Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md">changelog</a>.
-  created: 2024-04-24
+    swe: |
+      Nu kan du som avancerad användare ladda upp en egen Sparv-config för att ange hur du vill få din korpus annoterad.
+      Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.
+    eng: |
+      As an advanced user, you can now submit a customized Sparv config file detailing the analysis of your corpus.
+      Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.
+  created: 2024-04-23
   tags:
     - release
