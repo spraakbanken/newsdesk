@@ -14,11 +14,22 @@
     eng: "Mink frontend v1.5.0 released"
   body:
     swe: |
-      Nu kan du som avancerad användare ladda upp en egen Sparv-config för att ange hur du vill få din korpus annoterad.
-      Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">ändringsloggen</a>.
+      <p>Nu kan du som avancerad användare ladda upp en egen Sparv-config för att ange hur du vill få din korpus annoterad. Dessutom:</p>
+      <ul>
+        <li>Det går att dra och släppa hela mappar för att ladda upp filer</li>
+        <li>På korpussidan visas metadata och inställningar i samma låda, eftersom de hör ihop rent tekniskt</li>
+        <li>Exportfiler grupperas under mappnamn</li>
+      </ul>
+      <p>... samt några andra fixar och förbättringar.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">ändringsloggen</a>.</p>
     eng: |
-      As an advanced user, you can now submit a customized Sparv config file detailing the analysis of your corpus.
-      Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">changelog</a>.
+      <p>As an advanced user, you can now submit a customized Sparv config file detailing the analysis of your corpus. Also:</p>
+      <ul>
+        <li>You can drag and drop entire folders to upload files</li>
+        <li>On the corpus page, metadata and settings are shown in the same box, as they have a close relationship technically</li>
+        <li>Export files are grouped under folder names</li>
+      </ul>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">changelog</a>.</p>
   created: 2024-04-23
   tags:
     - release
