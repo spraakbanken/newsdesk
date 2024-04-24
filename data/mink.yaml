@@ -1,0 +1,12 @@
+---
+- title:
+    swe: "Planerat serverunderhåll"
+    eng: "Scheduled server maintenance"
+  body:
+    swe: Måndagen 29 april och torsdagen 2 maj planeras underhållsarbete av servrarna som Mink kör på. Underhåll sker 18–02, med risk för störningar även efterföljande natt och morgon.
+    eng: Maintenance is scheduled on Monday, April 29 and Thursday, May 2 on servers that host the Mink service. The scheduled time window is 18–02 (CEST), but disturbances may be expected also during the following night and morning.
+  created: 2024-04-24
+  expires: 2024-05-04
+  tags:
+    - featured
+    - maintenance
