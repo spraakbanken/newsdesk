@@ -1,4 +1,16 @@
 - title:
+    swe: Mink frontend v1.6.0 släppt
+    eng: Mink frontend v1.6.0 released
+  body:
+    swe: |
+      <p>Panelerna på korpussidan har bytt plats och layout för att ge en klarare bild av arbetsflödet. På förstasidan finns ett avsnitt med nyheter (som denna!).</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#160-2024-04-30" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>The panels on the corpus page are in a new order and layout to better visualize the workflow. The frontpage has a section with news (like this one!).</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#160-2024-04-30" target="_blank">changelog</a>.</p>
+  created: 2024-04-30
+
+- title:
     swe: "Planerat serverunderhåll"
     eng: "Scheduled server maintenance"
   body:
@@ -9,6 +21,7 @@
   tags:
     - featured
     - maintenance
+
 - title:
     swe: "Mink frontend v1.5.0 släppt"
     eng: "Mink frontend v1.5.0 released"
