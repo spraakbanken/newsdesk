@@ -1,7 +1,7 @@
-- title: Korp frontend v9.6.0
+- title: Korp frontend 9.6.0
   body:
     swe: <p>På Korps förstasida finns nu plats för introduktionstext, nyheter och exempelsökningar. Sökalternativet "mellanled" inkluderar för- och efterled. Under huven pågår ett omfattande arbete med att förnya källkoden. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
-    eng: <p>The Korp frontpage now offers space for an introduction, news and example searches. The "medial part" search option includes initial and final parts. Under the hood, extensive work is being done to renovate the codebase. Read all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: <p>The Korp frontpage now offers space for an introduction, news and example searches. The "medial part" search option includes initial and final parts. Under the hood, extensive work is being done to renovate the codebase. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
   created: 2024-05-27
 
 - title:
