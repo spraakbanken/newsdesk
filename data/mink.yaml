@@ -1,4 +1,16 @@
 - title:
+    swe: Mink frontend v1.6.1 släppt
+    eng: Mink frontend v1.6.1 released
+  body:
+    swe: |
+      <p>Kod visas nu med syntaxfärgning. Optimeringar har gjorts för att gränssnittet ska ladda snabbare.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#161-2024-08-13" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Code is now displayed with syntax highlighting. Loading times for the user interface have been optimized.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#161-2024-08-13" target="_blank">changelog</a>.</p>
+  created: 2024-08-13
+
+- title:
     swe: Mink frontend v1.6.0 släppt
     eng: Mink frontend v1.6.0 released
   body:
