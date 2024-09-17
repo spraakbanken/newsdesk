@@ -1,7 +1,13 @@
+- title: Korp frontend 9.7.0
+  body:
+    swe: Korp använder nu nya <a href="https://spraakbanken.gu.se/karp/">Karp&nbsp;7</a> för att slå upp ord. Några buggar har åtgärdats, bland annat i tidsintervall-komponenten. Andelen kod skriven i TypeScript har ökat från 10&nbsp;% till 35&nbsp;%. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.</p>
+    eng: Korp now uses the new <a href="https://spraakbanken.gu.se/karp/#lang=eng">Karp&nbsp;7</a> for lexical lookup. Some bugs were fixed in the time interval component and elsewhere. The amount of code written in TypeScript has increased from 10% to 35%. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2024-09-17
+
 - title: Korp frontend 9.6.0
   body:
-    swe: <p>På Korps förstasida finns nu plats för introduktionstext, nyheter och exempelsökningar. Sökalternativet "mellanled" inkluderar för- och efterled. Under huven pågår ett omfattande arbete med att förnya källkoden. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
-    eng: <p>The Korp frontpage now offers space for an introduction, news and example searches. The "medial part" search option includes initial and final parts. Under the hood, extensive work is being done to renovate the codebase. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+    swe: På Korps förstasida finns nu plats för introduktionstext, nyheter och exempelsökningar. Sökalternativet "mellanled" inkluderar för- och efterled. Under huven pågår ett omfattande arbete med att förnya källkoden. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: The Korp frontpage now offers space for an introduction, news and example searches. The "medial part" search option includes initial and final parts. Under the hood, extensive work is being done to renovate the codebase. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
   created: 2024-05-27
 
 - title:
