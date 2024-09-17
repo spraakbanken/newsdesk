@@ -1,4 +1,16 @@
 - title:
+    swe: Blogginlägg om egen berikning i källdata
+    eng: Blog post about custom annotations in the source
+  body:
+    swe: |
+      <p>I ett nytt inlägg i vår blogg beskriver vi hur man kan ta med egna annotationer när man kör analys på sin korpus.</p>
+      <p>Läs blogginlägget: <a href="https://spraakbanken.gu.se/blogg/20240820-anvand-mink-med-egen-berikning-i-kalldata" target="_blank">Använd Mink med egen berikning i källdata</a>.</p>
+    eng: |
+      <p>In a new blog post, we describe how your custom annotations can be included when processing a corpus.</p>
+      <p>The post is in Swedish: <a href="https://spraakbanken.gu.se/blogg/20240820-anvand-mink-med-egen-berikning-i-kalldata" hreflang="sv" target="_blank">Använd Mink med egen berikning i källdata</a>.</p>
+  created: 2024-08-20
+
+- title:
     swe: Mink frontend v1.6.1 släppt
     eng: Mink frontend v1.6.1 released
   body:
