@@ -1,3 +1,15 @@
+- title:
+    swe: "Planerat serverunderhåll"
+    eng: "Scheduled server maintenance"
+  body:
+    swe: Fredagen 27 september planeras underhållsarbete av Språkbanken Texts servrar. Underhåll sker klockan 9–16.
+    eng: Maintenance is scheduled on Friday, September 27 on servers at Språkbanken Text. The scheduled time window is 9 a.m. to 4 p.m. (CEST).
+  created: 2024-09-26
+  expires: 2024-09-28
+  tags:
+    - featured
+    - maintenance
+
 - title: Korp frontend 9.7.0
   body:
     swe: Korp använder nu nya <a href="https://spraakbanken.gu.se/karp/">Karp&nbsp;7</a> för att slå upp ord. Några buggar har åtgärdats, bland annat i tidsintervall-komponenten. Andelen kod skriven i TypeScript har ökat från 10&nbsp;% till 35&nbsp;%. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.</p>

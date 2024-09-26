@@ -1,4 +1,16 @@
 - title:
+    swe: "Planerat serverunderhåll"
+    eng: "Scheduled server maintenance"
+  body:
+    swe: Fredagen 27 september planeras underhållsarbete av Språkbanken Texts servrar. Underhåll sker klockan 9–16.
+    eng: Maintenance is scheduled on Friday, September 27 on servers at Språkbanken Text. The scheduled time window is 9 a.m. to 4 p.m. (CEST).
+  created: 2024-09-26
+  expires: 2024-09-28
+  tags:
+    - featured
+    - maintenance
+
+- title:
     swe: Blogginlägg om egen berikning i källdata
     eng: Blog post about custom annotations in the source
   body:
