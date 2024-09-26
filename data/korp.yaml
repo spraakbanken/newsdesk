@@ -12,7 +12,7 @@
 
 - title: Korp frontend 9.7.0
   body:
-    swe: Korp använder nu nya <a href="https://spraakbanken.gu.se/karp/">Karp&nbsp;7</a> för att slå upp ord. Några buggar har åtgärdats, bland annat i tidsintervall-komponenten. Andelen kod skriven i TypeScript har ökat från 10&nbsp;% till 35&nbsp;%. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.</p>
+    swe: Korp använder nu nya <a href="https://spraakbanken.gu.se/karp/">Karp&nbsp;7</a> för att slå upp ord. Några buggar har åtgärdats, bland annat i tidsintervall-komponenten. Andelen kod skriven i TypeScript har ökat från 10&nbsp;% till 35&nbsp;%. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
     eng: Korp now uses the new <a href="https://spraakbanken.gu.se/karp/#lang=eng">Karp&nbsp;7</a> for lexical lookup. Some bugs were fixed in the time interval component and elsewhere. The amount of code written in TypeScript has increased from 10% to 35%. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
   created: 2024-09-17
 
