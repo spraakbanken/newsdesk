@@ -1,4 +1,16 @@
 - title:
+    swe: Mink frontend v1.7.0 släppt
+    eng: Mink frontend v1.7.0 released
+  body:
+    swe: |
+      <p>Nya ikoner. Fixat några laddningssnurror och trasiga felmeddelanden.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#170-2024-09-30" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>New icon pack. Fixed some loading spinners and broken error messages.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#170-2024-09-30" target="_blank">changelog</a>.</p>
+  created: 2024-09-30
+
+- title:
     swe: "Planerat serverunderhåll"
     eng: "Scheduled server maintenance"
   body:
