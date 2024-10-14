@@ -1,4 +1,14 @@
 - title:
+    eng: Authentication service down for maintenance
+  body:
+    eng: The Språkbanken Text authentication service, SB-Auth, is down for unscheduled maintenance since around 2 p.m. (CEST). We hope to get it back online later today. In the meantime, it is not possible to log in to Mink.
+  created: 2024-10-14
+  expires: 2024-10-16
+  tags:
+    - featured
+    - maintenance
+
+- title:
     swe: Mink frontend v1.7.0 släppt
     eng: Mink frontend v1.7.0 released
   body:
