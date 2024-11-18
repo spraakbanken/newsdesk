@@ -1,4 +1,16 @@
 - title:
+  swe: "Planerat serverunderhåll"
+  eng: "Scheduled server maintenance"
+body:
+  swe: Tisdagen 26 november och torsdagen 28 november planeras underhållsarbete av servrarna som Mink kör på. Underhåll sker klockan 18–02, med risk för störningar fram till efterföljande morgon.
+  eng: Maintenance is scheduled on Tuesday, November 26 and Thursday, November 28 on servers that host the Mink service. The scheduled time window is 6 p.m. to 2 a.m. (CET), with potential disturbances until the following morning.
+created: 2024-11-18
+expires: 2024-12-02
+tags:
+  - featured
+  - maintenance
+
+- title:
     eng: Authentication service down for maintenance
   body:
     eng: The Språkbanken Text authentication service, SB-Auth, is down for unscheduled maintenance since around 2 p.m. (CEST). We hope to get it back online later today. In the meantime, it is not possible to log in to Mink.
