@@ -1,4 +1,16 @@
 - title:
+    swe: Mink frontend 1.7.1 släppt
+    eng: Mink frontend 1.7.1 released
+  body:
+    swe: |
+      <p>Tillgängligheten har ökat genom ändringar i färgsättning och dylikt. NER-alternativet inkluderar även geotaggning. Egen config kan antingen laddas upp eller redigeras direkt.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Better color contrast and other accessibility improvements. The NER option now includes Geotagging. Custom configuration can be uploaded as well as edited directly.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2024-12-03
+
+- title:
     swe: "Planerat serverunderhåll"
     eng: "Scheduled server maintenance"
   body:
