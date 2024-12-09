@@ -1,3 +1,9 @@
+- title: Korp frontend 9.7.2
+  body:
+    swe: Statistiktabellen är snabbare, och sorteringen i bokstavsordning fungerar bättre. Under <em>Korpusuppdateringar</em> finns det knappar för att välja varje korpus. Ungefär 2500 rader kod har refaktorerats och blivit mer framtidsbeständiga. Ett dussin buggar har lagats. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: The statistics table renders faster, and alphabetical ordering is improved. Under <em>Corpus updates</em> there are buttons to select each corpus. Some 2500 lines of code were refactored to be more future-proof, and a dozen of bugs were fixed. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2024-12-09
+
 - title:
     swe: "Planerat serverunderhåll"
     eng: "Scheduled server maintenance"
