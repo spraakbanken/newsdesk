@@ -1,3 +1,9 @@
+- title: Korp frontend 9.8.0
+  body:
+    swe: När fel inträffar visas mer information. Autocomplete för lemgram visar alla resultat. Sökhistoriken omfattar nu även utökade sökningar. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: Errors are shown with more information. Lemgram autocomplete shows all results. Search history now includes extended searches. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2025-01-20
+
 - title: Korp frontend 9.7.2
   body:
     swe: Statistiktabellen är snabbare, och sorteringen i bokstavsordning fungerar bättre. Under <em>Korpusuppdateringar</em> finns det knappar för att välja varje korpus. Ungefär 2500 rader kod har refaktorerats och blivit mer framtidsbeständiga. Ett dussin buggar har lagats. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
