@@ -1,3 +1,13 @@
+- title: Mink frontend 1.8.0
+  body:
+    swe: |
+      <p>Bland standardannoteringarna går det nu att välja bort oönskade annoteringar.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Among the default annotations, unwanted groups of annotations can now be disabled.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-01-20
+
 - title:
     swe: Mink frontend 1.7.1 släppt
     eng: Mink frontend 1.7.1 released
