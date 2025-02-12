@@ -1,3 +1,13 @@
+- title: Mink frontend 1.9.0
+  body:
+    swe: |
+      <p>YAML-redigeraren under <em>Egen config</em> validerar nu mot Sparvs konfigurationsschema, så du kan lättare se om det blir fel.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>The YAML editor on the <em>Custom config</em> page now validates against the Sparv configuration schema, for direct feedback on mistakes.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-02-12
+
 - title: Mink frontend 1.8.0
   body:
     swe: |
