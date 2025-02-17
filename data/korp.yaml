@@ -1,3 +1,15 @@
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
+    swe: Fredagen 21 februari planeras underhållsarbete för några av Språkbanken Texts servrar. Underhållsfönstret är kl 9–15 (UTC+1). Störningar av Korp väntas främst på morgonen.
+    eng: Maintenance work on Språkbanken Text servers is scheduled for Friday, February 21, between 9 a.m. and 3 p.m (UTC+1). Korp may be affected, especially in the morning.
+  created: 2025-02-17
+  expires: 2025-02-22
+  tags:
+    - featured
+    - maintenance
+
 - title: Korp frontend 9.8.0
   body:
     swe: När fel inträffar visas mer information. Autocomplete för lemgram visar alla resultat. Sökhistoriken omfattar nu även utökade sökningar. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
