@@ -1,3 +1,9 @@
+- title: Korp frontend 9.9.0
+  body:
+    swe: Appen laddar snabbare genom att tidsdata hämtas parallellt. Vissa sökalternativ har flyttat in i motsvarande resultatflikar. I ordbilden finns en tydligare skillnad mellan absolut frekvens och associationsmåttet LMI. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: The app loads faster by fetching time data in parallel. Some search options have moved into their corresponding result tabs. Word picture distinguishes more clearly between absolute frequency and the LMI association measure. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2025-03-24
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
