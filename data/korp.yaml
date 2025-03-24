@@ -51,25 +51,3 @@
     swe: På Korps förstasida finns nu plats för introduktionstext, nyheter och exempelsökningar. Sökalternativet "mellanled" inkluderar för- och efterled. Under huven pågår ett omfattande arbete med att förnya källkoden. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
     eng: The Korp frontpage now offers space for an introduction, news and example searches. The "medial part" search option includes initial and final parts. Under the hood, extensive work is being done to renovate the codebase. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
   created: 2024-05-27
-
-- title:
-    swe: "Ny korpus: Tvåkammarriksdagen"
-    eng: "New corpus: Tvåkammarriksdagen"
-  body:
-    swe:
-      <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
-      finns nu i Korp.</p>
-    eng:
-      <p><a href="?mode=default#?&amp;corpus=tkr-rskr,tkr-motioner,tkr-bet-mem-utl,tkr-protokoll,tkr-reglementen-sfs,tkr-register,tkr-riksdagens-forfattningssamling-rfs,tkr-utredningar-kombet-sou,tkr-berattelser-redogorelser-frsrdg,tkr-propositioner-skrivelser">Tvåkammarriksdagen</a>
-      is now available in Korp.</p>
-  created: 2023-11-30
-
-- title:
-    swe: "Ny korpus: SAOB1950"
-    eng: "Ny korpus: SAOB1950"
-  body:
-    swe: <p><a href="?mode=default#?&amp;corpus=saob-bocker">SAOB1950</a> finns nu
-      i Korp innehållandes skannade monografier från 1950 till 2007.</p>
-    eng: <p><a href="?mode=default#?&amp;corpus=saob-bocker">SAOB1950</a> finns nu
-      i Korp innehållandes skannade monografier från 1950 till 2007.</p>
-  created: 2023-11-30
