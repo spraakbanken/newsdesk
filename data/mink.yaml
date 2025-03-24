@@ -1,4 +1,12 @@
 - title:
+    swe: Introduktionsvideo
+    eng: Introduction video
+  body:
+    swe: Den 26 februari 2025 hölls ett webbinarium där Språkbanken gav en introduktion till textanalys i Mink. Se inspelningen på <a href="https://youtu.be/h10AkEzNVQM?feature=shared" target="_blank" rel="nofollow">YouTube</a>.
+    eng: In a webinar on February 26, 2025, Språkbanken gave an introduction to text analysis with Mink. See the recording on <a href="https://youtu.be/h10AkEzNVQM?feature=shared" target="_blank" rel="nofollow">YouTube</a>.
+  created: 2025-03-24
+
+- title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
