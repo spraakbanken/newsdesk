@@ -2,6 +2,30 @@
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
+    swe: Torsdagen 22 maj utförs underhållsarbete för servrarna som driver Mink samt Mink-läget av Korp. Arbetet sker på kvällen, kl 19–02 (UTC+2).
+    eng: On Thursday, May 22, maintenance work is scheduled for the servers hosting Mink as well as the Mink mode of Korp. The work is scheduled for the evening, between 7 p.m. and 2 a.m (UTC+2).
+  created: 2025-05-19
+  expires: 2025-05-23
+  tags:
+    - featured
+    - maintenance
+
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
+    swe: Torsdagen 15 maj utförs underhållsarbete för servern som driver Strix. Arbetet sker på kvällen, kl 19–02 (UTC+2).
+    eng: On Thursday, May 15, maintenance work is scheduled for the Strix server. The work is scheduled for the evening, between 7 p.m. and 2 a.m (UTC+2).
+  created: 2025-05-12
+  expires: 2025-05-16
+  tags:
+    - featured
+    - maintenance
+
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
     swe: Onsdagen 7 maj utförs underhållsarbete för några av Språkbanken Texts servrar. Underhållsfönstret är kl 9–16 (UTC+2).
     eng: On Wednesday, February 21, we are performing maintenance work on Språkbanken Text servers between 9 a.m. and 4 p.m (UTC+2).
   created: 2025-05-07
