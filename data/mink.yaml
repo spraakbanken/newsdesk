@@ -1,3 +1,13 @@
+- title: Mink frontend 1.10.0
+  body:
+    swe: |
+      <p>Använd knappen <em>Rensa annotationer</em> för att kunna analysera om en korpus med ändrade inställningar.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Use the new <em>Clear annotations</em> button to be able to re-run analysis with changed settings.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-02-12
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
@@ -58,149 +68,18 @@
   body:
     swe: |
       <p>YAML-redigeraren under <em>Egen config</em> validerar nu mot Sparvs konfigurationsschema, så du kan lättare se om det blir fel.</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
     eng: |
       <p>The YAML editor on the <em>Custom config</em> page now validates against the Sparv configuration schema, for direct feedback on mistakes.</p>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
   created: 2025-02-12
 
 - title: Mink frontend 1.8.0
   body:
     swe: |
       <p>Bland standardannoteringarna går det nu att välja bort oönskade annoteringar.</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
     eng: |
       <p>Among the default annotations, unwanted groups of annotations can now be disabled.</p>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
   created: 2025-01-20
-
-- title:
-    swe: Mink frontend 1.7.1 släppt
-    eng: Mink frontend 1.7.1 released
-  body:
-    swe: |
-      <p>Tillgängligheten har ökat genom ändringar i färgsättning och dylikt. NER-alternativet inkluderar även geotaggning. Egen config kan antingen laddas upp eller redigeras direkt.</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
-    eng: |
-      <p>Better color contrast and other accessibility improvements. The NER option now includes Geotagging. Custom configuration can be uploaded as well as edited directly.</p>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md" target="_blank">changelog</a>.</p>
-  created: 2024-12-03
-
-- title:
-    swe: "Planerat serverunderhåll"
-    eng: "Scheduled server maintenance"
-  body:
-    swe: Tisdagen 26 november och torsdagen 28 november planeras underhållsarbete av servrarna som Mink kör på. Underhåll sker klockan 18–02, med risk för störningar fram till efterföljande morgon.
-    eng: Maintenance is scheduled on Tuesday, November 26 and Thursday, November 28 on servers that host the Mink service. The scheduled time window is 6 p.m. to 2 a.m. (CET), with potential disturbances until the following morning.
-  created: 2024-11-18
-  expires: 2024-12-02
-  tags:
-    - featured
-    - maintenance
-
-- title:
-    eng: Authentication service down for maintenance
-  body:
-    eng: The Språkbanken Text authentication service, SB-Auth, is down for unscheduled maintenance since around 2 p.m. (CEST). We hope to get it back online later today. In the meantime, it is not possible to log in to Mink.
-  created: 2024-10-14
-  expires: 2024-10-14
-  tags:
-    - featured
-    - maintenance
-
-- title:
-    swe: Mink frontend v1.7.0 släppt
-    eng: Mink frontend v1.7.0 released
-  body:
-    swe: |
-      <p>Nya ikoner. Fixat några laddningssnurror och trasiga felmeddelanden.</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#170-2024-09-30" target="_blank">ändringsloggen</a>.</p>
-    eng: |
-      <p>New icon pack. Fixed some loading spinners and broken error messages.</p>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#170-2024-09-30" target="_blank">changelog</a>.</p>
-  created: 2024-09-30
-
-- title:
-    swe: "Planerat serverunderhåll"
-    eng: "Scheduled server maintenance"
-  body:
-    swe: Fredagen 27 september planeras underhållsarbete av Språkbanken Texts servrar. Underhåll sker klockan 9–16.
-    eng: Maintenance is scheduled on Friday, September 27 on servers at Språkbanken Text. The scheduled time window is 9 a.m. to 4 p.m. (CEST).
-  created: 2024-09-26
-  expires: 2024-09-28
-  tags:
-    - featured
-    - maintenance
-
-- title:
-    swe: Blogginlägg om egen berikning i källdata
-    eng: Blog post about custom annotations in the source
-  body:
-    swe: |
-      <p>I ett nytt inlägg i vår blogg beskriver vi hur man kan ta med egna annotationer när man kör analys på sin korpus.</p>
-      <p>Läs blogginlägget: <a href="https://spraakbanken.gu.se/blogg/20240820-anvand-mink-med-egen-berikning-i-kalldata" target="_blank">Använd Mink med egen berikning i källdata</a>.</p>
-    eng: |
-      <p>In a new blog post, we describe how your custom annotations can be included when processing a corpus.</p>
-      <p>The post is in Swedish: <a href="https://spraakbanken.gu.se/blogg/20240820-anvand-mink-med-egen-berikning-i-kalldata" hreflang="sv" target="_blank">Använd Mink med egen berikning i källdata</a>.</p>
-  created: 2024-08-20
-
-- title:
-    swe: Mink frontend v1.6.1 släppt
-    eng: Mink frontend v1.6.1 released
-  body:
-    swe: |
-      <p>Kod visas nu med syntaxfärgning. Optimeringar har gjorts för att gränssnittet ska ladda snabbare.</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#161-2024-08-13" target="_blank">ändringsloggen</a>.</p>
-    eng: |
-      <p>Code is now displayed with syntax highlighting. Loading times for the user interface have been optimized.</p>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#161-2024-08-13" target="_blank">changelog</a>.</p>
-  created: 2024-08-13
-
-- title:
-    swe: Mink frontend v1.6.0 släppt
-    eng: Mink frontend v1.6.0 released
-  body:
-    swe: |
-      <p>Panelerna på korpussidan har bytt plats och layout för att ge en klarare bild av arbetsflödet. På förstasidan finns ett avsnitt med nyheter (som denna!).</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#160-2024-04-30" target="_blank">ändringsloggen</a>.</p>
-    eng: |
-      <p>The panels on the corpus page are in a new order and layout to better visualize the workflow. The frontpage has a section with news (like this one!).</p>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#160-2024-04-30" target="_blank">changelog</a>.</p>
-  created: 2024-04-30
-
-- title:
-    swe: "Planerat serverunderhåll"
-    eng: "Scheduled server maintenance"
-  body:
-    swe: Måndagen 29 april och torsdagen 2 maj planeras underhållsarbete av servrarna som Mink kör på. Underhåll sker klockan 18–02, med risk för störningar även efterföljande natt och morgon.
-    eng: Maintenance is scheduled on Monday, April 29 and Thursday, May 2 on servers that host the Mink service. The scheduled time window is 6 p.m. to 2 a.m. (CEST), but disturbances may be expected also during the following night and morning.
-  created: 2024-04-24
-  expires: 2024-05-04
-  tags:
-    - featured
-    - maintenance
-
-- title:
-    swe: "Mink frontend v1.5.0 släppt"
-    eng: "Mink frontend v1.5.0 released"
-  body:
-    swe: |
-      <p>Nu kan du som avancerad användare ladda upp en egen Sparv-config för att ange hur du vill få din korpus annoterad. Dessutom:</p>
-      <ul>
-        <li>Det går att dra och släppa hela mappar för att ladda upp filer</li>
-        <li>På korpussidan visas metadata och inställningar i samma låda, eftersom de hör ihop rent tekniskt</li>
-        <li>Exportfiler grupperas under mappnamn</li>
-      </ul>
-      <p>... samt några andra fixar och förbättringar.</p>
-      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">ändringsloggen</a>.</p>
-    eng: |
-      <p>As an advanced user, you can now submit a customized Sparv config file detailing the analysis of your corpus. Also:</p>
-      <ul>
-        <li>You can drag and drop entire folders to upload files</li>
-        <li>On the corpus page, metadata and settings are shown in the same box, as they have a close relationship technically</li>
-        <li>Export files are grouped under folder names</li>
-      </ul>
-      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/dev/CHANGELOG.md#150-2024-04-23" target="_blank">changelog</a>.</p>
-  created: 2024-04-23
-  tags:
-    - release
