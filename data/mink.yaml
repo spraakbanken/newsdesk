@@ -6,7 +6,7 @@
     eng: |
       <p>Use the new <em>Clear annotations</em> button to be able to re-run analysis with changed settings.</p>
       <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
-  created: 2025-02-12
+  created: 2025-05-19
 
 - title:
     swe: Planerat serverunderhåll
