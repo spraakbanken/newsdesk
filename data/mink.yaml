@@ -2,8 +2,8 @@
     swe: Tillfälliga problem i Mink
     eng: Temporary problems in Mink
   body:
-    swe: Vid skapande och borttagande av korpusar i Mink kan för närvarande ett felmeddelande visas. Gå till ditt [bibliotek](https://spraakbanken.gu.se/mink/library) och ladda om sidan för att hitta korpusen.
-    eng: When creating or deleting corpora in Mink, an error message may appear temporarily. Go to your [library](https://spraakbanken.gu.se/mink/library) and reload the page to find the corpus.
+    swe: Vid skapande och borttagande av korpusar i Mink kan för närvarande ett felmeddelande visas. Gå till ditt <a href="https://spraakbanken.gu.se/mink/library">bibliotek<a> och ladda om sidan för att hitta korpusen.
+    eng: When creating or deleting corpora in Mink, an error message may appear temporarily. Go to your <a href="https://spraakbanken.gu.se/mink/library">library<a> and reload the page to find the corpus.
   created: 2025-06-02
   tags:
     - featured
