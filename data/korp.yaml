@@ -1,3 +1,9 @@
+- title: Korp frontend 9.10.0
+  body:
+    swe: Relativ frekvens visas i KWIC, och i statistiken går det att växla mellan absolut och relativ frekvens. Under ytan har tillståndshanteringen blivit mer enhetlig. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: Get relative frequency in the KWIC, and switch between absolute and relative frequency in statistics. Under the hood, state management has been consolidated. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2025-06-26
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
