@@ -1,3 +1,13 @@
+- title: Mink frontend 1.12.0
+  body:
+    swe: |
+      <p>Ett problem med att visa äldre korpusar i biblioteksvyn är fixat. En länk till Strix nya <a href="https://spraakbanken.gu.se/strix/docs/" target="_blank">dokumentation</a> är inlagd. Sidhuvudet har bytt layout.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>A problem with showing older corpora in the Library view was fixed. A link to the new <a href="https://spraakbanken.gu.se/strix/docs/" target="_blank">Strix docs</a> was added. The page header has a new layout.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-08-26
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
