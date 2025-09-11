@@ -1,7 +1,7 @@
 - title: Korp frontend 9.11.0
   body:
-    swe: Gedigen omstrukturering i koden. Ordbildsfunktionen fungerar numera även med det utökade och avancerade sökläget. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
-    eng: Besides large code restructuring efforts, the Word Picture now also works with the Extended and the Advanced search modes. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+    swe: Gedigen omstrukturering i koden. KWIC-sidebaren är tydligare. Ordbildsfunktionen fungerar numera med alla tre söklägen. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: Besides large code restructuring efforts, the KWIC Sidebar now reads clearer and the Word Picture works with all search modes. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
   created: 2025-09-11
 
 - title: Korp frontend 9.10.0
