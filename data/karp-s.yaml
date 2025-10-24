@@ -2,8 +2,8 @@
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
-    swe: Onsdagen 29 oktober utförs underhållsarbete för några av Språkbanken Texts servrar. Underhållsfönstret är kl 9–16 (UTC+2).
-    eng: On Wednesday, October 29, we are performing maintenance work on Språkbanken Text servers between 9 a.m. and 4 p.m (UTC+2).
+    swe: Onsdagen 29 oktober utförs underhållsarbete för några av Språkbanken Texts servrar. Underhållsfönstret är kl 9–16 (UTC+1).
+    eng: On Wednesday, October 29, we are performing maintenance work on Språkbanken Text servers between 9 a.m. and 4 p.m (UTC+1).
   created: 2025-10-07
   expires: 2025-10-30
   tags:
