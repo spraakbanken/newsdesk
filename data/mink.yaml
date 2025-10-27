@@ -1,3 +1,13 @@
+- title: Mink frontend 1.13
+  body:
+    swe: |
+      <p>Stöd för ljudfiler och taligenkänning. Anpassningar för uppdateringar i Mink backend.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Support for audio sources files and speech recognition. Adaptations for the rewritten Mink backend.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-10-27
+
 - title:
     swe: Underhållsarbete
     eng: Maintenance
