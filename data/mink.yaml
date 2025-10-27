@@ -1,4 +1,16 @@
 - title:
+    swe: Underhållsarbete
+    eng: Maintenance
+  body:
+    swe: Måndagen 27 oktober utförs underhållsarbete för Mink. Underhållsfönstret är kl 10–15 (UTC+1).
+    eng: On Monday, October 27, we are performing maintenance work on Mink between 10 a.m. and 3 p.m (UTC+1).
+  created: 2025-10-27
+  expires: 2025-10-28
+  tags:
+    - featured
+    - maintenance
+
+- title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
