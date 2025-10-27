@@ -1,10 +1,10 @@
 - title: Mink frontend 1.13
   body:
     swe: |
-      <p>Stöd för ljudfiler och taligenkänning. Anpassningar för uppdateringar i Mink backend.</p>
+      <p>Stöd för ljudfiler och taligenkänning. Anpassningar för <a href="https://github.com/spraakbanken/mink-backend/releases/tag/v2.0.0" target="_blank">Mink backend 2.0</a>.</p>
       <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
     eng: |
-      <p>Support for audio sources files and speech recognition. Adaptations for the rewritten Mink backend.</p>
+      <p>Support for audio sources files and speech recognition. Adaptations for <a href="https://github.com/spraakbanken/mink-backend/releases/tag/v2.0.0" target="_blank">Mink Backend 2.0</a>.</p>
       <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
   created: 2025-10-27
 
