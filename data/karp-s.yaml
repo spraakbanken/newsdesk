@@ -1,4 +1,14 @@
 - title:
+    swe: Nya parametrar i URL:en
+    eng: New parameters in the URL
+  body:
+    swe: Det går nu att använda <b>pageStart=N</b> och <b>pageSize=N</b> i länkar till Karp-s.
+    eng: It is now possible to use <b>pageStart=N</b> and <b>pageSize=N</b> in links to Karp-s.
+  created: 2025-10-29
+  expires: 2025-11-29
+  tags:
+
+- title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
