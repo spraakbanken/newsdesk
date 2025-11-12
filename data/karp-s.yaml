@@ -1,4 +1,14 @@
 - title:
+    swe: Kolumnnamn och antal i statistikvyn
+    eng: Column names and count shown in statistics view
+  body:
+    swe: Både kolumnnamn och antal visas nu i statistikvyn. Flera fixar i användargränssnittet.
+    eng: Both column name and count are shown in statistics view. Several UI-fixes.
+  created: 2025-11-12
+  expires: 2025-11-12
+  tags:
+
+- title:
     swe: Nya parametrar i URL:en
     eng: New parameters in the URL
   body:
