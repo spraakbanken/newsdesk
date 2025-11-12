@@ -4,7 +4,7 @@
   body:
     swe: Både kolumnnamn och antal visas nu i statistikvyn. Flera fixar i användargränssnittet.
     eng: Both column name and count are shown in statistics view. Several UI-fixes.
-  created: 2025-11-12
+  created: 2025-11-11
   expires: 2025-12-12
   tags:
 
