@@ -1,3 +1,13 @@
+- title: Mink frontend 1.14
+  body:
+    swe: |
+      <p>Länkar i korpusinställningarna till mer info om varje analys. Kravet på korpusnamn är borttaget. Snyggare laddningsmätare.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Links in corpus settings to more info about each analysis. Corpus name requirement removed. Smoother progress bar.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-11-13
+
 - title: Mink frontend 1.13
   body:
     swe: |
