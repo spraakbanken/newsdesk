@@ -1,4 +1,14 @@
 - title:
+    swe: Referenstabbar kan öppnas från statistikvyn
+    eng: Reference tabs from statistics view
+  body:
+    swe: Klicka på träffar i statistikvyn för att få fram referenstabeller som egna tabbar.
+    eng: Click hits in the statisticsview to show referencetables in their own tabs.
+  created: 2025-11-14
+  expires: 2025-12-14
+  tags:
+
+- title:
     swe: Kolumnnamn och antal i statistikvyn
     eng: Column names and count shown in statistics view
   body:
