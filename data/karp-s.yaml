@@ -1,4 +1,14 @@
 - title:
+    swe: Välj kolumner på datamängds- och global nivå
+    eng: Select columns for each dataset or at global level
+  body:
+    swe: Klicka på fält-knappen för att välja de kolumner du vill visa. Det går även att göra på en global nivå som påverkar alla datamängder.
+    eng: Click on the field-button to select columns to show. It is also possible to select on a global level.
+  created: 2025-12-03
+  expires: 2026-01-03
+  tags:
+
+- title:
     swe: Referenstabbar kan öppnas från statistikvyn
     eng: Reference tabs from statistics view
   body:
