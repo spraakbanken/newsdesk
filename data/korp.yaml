@@ -1,3 +1,15 @@
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
+    swe: Onsdagen 17 oktober utförs underhållsarbete för några av Språkbanken Texts servrar. Underhållsfönstret är kl 9–16 (UTC+1).
+    eng: On Wednesday, December 17, we are performing maintenance work on Språkbanken Text servers between 9 a.m. and 4 p.m (UTC+1).
+  created: 2025-12-10
+  expires: 2025-12-18
+  tags:
+    - featured
+    - maintenance
+
 - title: Korp frontend 9.12
   body:
     swe: Klicka i statistiktabellens celler för att djupsöka i en enskild korpus. Delvis valda mappar i korpusväljaren är utfällda från början. Bättre återkoppling vid laddning. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
