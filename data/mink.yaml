@@ -1,3 +1,13 @@
+- title: Mink frontend 1.15
+  body:
+    swe: |
+      <p>Samarbeta på korpusar med dina kollegor. Välj specifikt bland enskilda analyser. Ladda upp CoNLL-U-filer som källdata.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Collaborate on corpora with your team mates. Select specific analyses. Upload CoNLL-U files as sources.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2025-12-11
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
