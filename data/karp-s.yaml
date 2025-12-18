@@ -1,4 +1,14 @@
 - title:
+    swe: Förbättrat mörkt läge
+    eng: Improved dark mode
+  body:
+    swe: För dig som gillar mörkt läge i dina verktyg, så har vi sett över det i Karplabb. Prova genom att klicka den lilla ikonen i menyraden.
+    eng: We have improved dark mode for those of you that prefer it. Try it out by clicking the icon in the menu bar.
+  created: 2025-12-18
+  expires: 2026-01-18
+  tags:
+
+- title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
