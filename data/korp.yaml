@@ -1,3 +1,9 @@
+- title: Korp frontend 9.13
+  body:
+    swe: Exportera och ladda ner ordbild som CSV. Exportera-knapparna har flyttat längst upp i resultatflikarna. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: Export Word Picture results as a CSV download. The export controls have moved to the top of the result views. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2026-01-19
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
