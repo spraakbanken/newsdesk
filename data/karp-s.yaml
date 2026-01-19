@@ -1,4 +1,14 @@
 - title:
+    swe: Visa aktuell position i träffbilden
+    eng: Show current position in hit image
+  body:
+    swe: Ovanför tabellen visas en träffbild där du kan se fördelningen mellan de olika datamängderna. Under denna visas nu en orange balk som talar om var du är i din bläddring.
+    eng: Above the table, a hit picture is displayed where you can see the distribution between the different data sets. Below this, an orange bar now shows where you are in your browsing.
+  created: 2026-01-19
+  expires: 2026-02-18
+  tags:
+  
+- title:
     swe: Förbättrat mörkt läge
     eng: Improved dark mode
   body:
