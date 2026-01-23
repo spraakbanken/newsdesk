@@ -1,4 +1,14 @@
 - title:
+    swe: Välj fält flera gånger i utökad sökning
+    eng: Select field multiple times in extended search
+  body:
+    swe: Nu kan du i utökad sökning välja exempelvis ingångsord två gånger, så att du kan söka på exempelvis bi eller blomma.
+    eng: Now you can, in the extended search, choose entry words twice, so you can search for, for example, bi or blomma.
+  created: 2026-01-23
+  expires: 2026-02-23
+  tags:
+
+- title:
     swe: Visa aktuell position i träffbilden
     eng: Show current position in hit image
   body:
