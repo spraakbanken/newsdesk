@@ -1,4 +1,14 @@
 - title:
+    swe: Störningar på onsdag pga server-uppdateringar
+    eng: Server-maintenance on Wednesday can lead to interruptions
+  body:
+    swe: På onsdag görs uppdateringar av servern, och Karps drift kan därför drabbas av störningar.
+    eng: Due to server-updates on Wednesday, Karp can sometimes be unavailable.
+  created: 2026-01-26
+  expires: 2026-02-29
+  tags:
+
+- title:
     swe: Välj fält flera gånger i utökad sökning
     eng: Select field multiple times in extended search
   body:
