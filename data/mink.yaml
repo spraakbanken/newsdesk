@@ -1,3 +1,13 @@
+- title: Mink frontend 1.16
+  body:
+    swe: |
+      <p>Syntaxfärgning och integrerad validering i redigeraren för egen config.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Syntax highlighting and integrated validation in the custom config editor.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2026-02-16
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
