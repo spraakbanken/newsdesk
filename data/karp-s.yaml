@@ -1,11 +1,21 @@
 - title:
+    swe: Förbättrad bläddring och funktionalitet för låsta lexikon
+    eng: Improved horisontal scrolling and functionality for restricted datasets
+  body:
+    swe: Nu kan Karps sökläge hantera låsta lexikon. Tabeller, statistik och diagram scrollas nu i sidled. Diverse buggfixar.
+    eng: Handling of restricted access for datasets. Proper scrolling of tables, statistics and overview. Miscellaneous bug fixes.
+  created: 2026-02-18
+  expires: 2026-03-01
+  tags:
+
+- title:
     swe: Störningar på onsdag pga server-uppdateringar
     eng: Server-maintenance on Wednesday can lead to interruptions
   body:
     swe: På onsdag görs uppdateringar av servern, och Karps drift kan därför drabbas av störningar.
     eng: Due to server-updates on Wednesday, Karp can sometimes be unavailable.
   created: 2026-01-26
-  expires: 2026-02-29
+  expires: 2026-02-07
   tags:
 
 - title:
