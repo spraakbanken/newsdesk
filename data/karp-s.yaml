@@ -1,4 +1,14 @@
 - title:
+    swe: SO2009-ord inkluderar nu även källa
+    eng: The SO2009-ord dataset now also includes source
+  body:
+    swe: Klicka på länken i källa-kolumnen för att visa HTML-sidan för ingångsordet.
+    eng: Click the link in the source column to show the HTML page for the entry word.
+  created: 2026-03-19
+  expires: 2026-04-19
+  tags:
+  
+- title:
     swe: Bläddra bland käll-bilder som exempelvis faksimiler
     eng: Browse source-images, for example facsimiles
   body:
