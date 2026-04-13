@@ -1,3 +1,27 @@
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
+    swe: Onsdagen 6 maj utförs underhållsarbete för några av Språkbanken Texts servrar. Underhållsfönstret är kl 9–16 (UTC+2).
+    eng: On Wednesday, May 6, we are performing maintenance work on Språkbanken Text servers between 9 a.m. and 4 p.m (UTC+2).
+  created: 2026-04-30
+  expires: 2026-05-07
+  tags:
+    - featured
+    - maintenance
+
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
+    swe: Måndagen 20 april och onsdagen 22 april utförs underhållsarbete för servrarna som driver Mink samt Mink-läget av Korp. Arbetet sker på kvällen, kl 19–00 (UTC+2).
+    eng: On Monday, April 20 and Wednesday, April 22, maintenance work is scheduled for the servers hosting Mink as well as the Mink mode of Korp. The work is scheduled for the evening, between 7 p.m. and midnight (UTC+2).
+  created: 2026-04-13
+  expires: 2026-04-23
+  tags:
+    - featured
+    - maintenance
+
 - title: Mink frontend 1.16
   body:
     swe: |
