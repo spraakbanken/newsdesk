@@ -1,3 +1,13 @@
+- title: Mink frontend 1.17
+  body:
+    swe: |
+      <p>Läs resultatfiler direkt i webbläsaren. Ändra sorteringen i fillistningar.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>View result files directly in the browser. Change sort order in file listings.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2026-04-15
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
