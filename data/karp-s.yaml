@@ -1,11 +1,21 @@
 - title:
+    swe: Sök med kombinationer av OCH, ELLER och INTE
+    eng: Search with combinations of AND, OR and NOT
+  body:
+    swe: Under Utökad sökning kan du nu grafiskt bygga upp sökningar där du kan använda logiska operation.
+    eng: Under Extended Search, you can now visually build queries using logical operations.
+  created: 2026-04-17
+  expires: 2026-05-16
+  tags:
+
+- title:
     swe: SO2009-ord inkluderar nu även källa
     eng: The SO2009-ord dataset now also includes source
   body:
     swe: Klicka på länken i källa-kolumnen för att visa HTML-sidan för ingångsordet.
     eng: Click the link in the source column to show the HTML page for the entry word.
   created: 2026-03-19
-  expires: 2026-04-19
+  expires: 2026-04-30
   tags:
   
 - title:
