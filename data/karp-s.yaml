@@ -2,7 +2,7 @@
     swe: Sök med kombinationer av OCH, ELLER och INTE
     eng: Search with combinations of AND, OR and NOT
   body:
-    swe: Under Utökad sökning kan du nu grafiskt bygga upp sökningar där du kan använda logiska operation.
+    swe: Under Utökad sökning kan du nu grafiskt bygga upp sökningar där du kan använda logiska operationer.
     eng: Under Extended Search, you can now visually build queries using logical operations.
   created: 2026-04-17
   expires: 2026-05-16
