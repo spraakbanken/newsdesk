@@ -1,4 +1,14 @@
 - title:
+    swe: URLen för sökningen tar endast med parametrar som skiljer sig från skönsvärdet
+    eng: The URL for the search only includes parameters that differ from default
+  body:
+    swe: Genom att endast förändrade parametrar är inkluderade blir URLen kortade i många fall.
+    eng: By only including changed parameters the URL will be shorter most of the time.
+  created: 2026-04-23
+  expires: 2026-05-23
+  tags:
+  
+- title:
     swe: Sök med kombinationer av OCH, ELLER och INTE
     eng: Search with combinations of AND, OR and NOT
   body:
