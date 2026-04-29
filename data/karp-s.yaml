@@ -2,7 +2,7 @@
     swe: Enklare hantering av kolumner med fördefinierade värden.
     eng: Improved handling of columns with predefined values.
   body:
-    swe: I exempelvis ordklass (UD) kan du nu söka fram bland de fördefinierade värden. Använd piltangenterna eller sök direkt i rutan.
+    swe: I exempelvis ordklass (UD) kan du nu söka fram ett fördefinierat värde. Använd piltangenterna eller sök direkt i rutan.
     eng: In, for example, part of speech (UD), you can now search among the predefined values. Use the arrow keys or search directly in the input field.
   created: 2026-04-29
   expires: 2026-05-29
