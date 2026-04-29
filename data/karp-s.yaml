@@ -1,4 +1,14 @@
 - title:
+    swe: Enklare hantering av kolumner med fördefinierade värden.
+    eng: Improved handling of columns with predefined values.
+  body:
+    swe: I exempelvis ordklass (UD) kan du nu söka fram bland de fördefinierade värden. Använd piltangenterna eller sök direkt i rutan.
+    eng: In, for example, part of speech (UD), you can now search among the predefined values. Use the arrow keys or search directly in the input field.
+  created: 2026-04-29
+  expires: 2026-05-29
+  tags:
+
+- title:
     swe: Sidstorlek sparas nu som default, och bildbläddraren har förbättrats
     eng: Page size is now saved as default, some UI cleanup as well as improvements to the image browser
   body:
@@ -35,7 +45,7 @@
     swe: Klicka på länken i källa-kolumnen för att visa HTML-sidan för ingångsordet.
     eng: Click the link in the source column to show the HTML page for the entry word.
   created: 2026-03-19
-  expires: 2026-04-30
+  expires: 2026-04-19
   tags:
   
 - title:
