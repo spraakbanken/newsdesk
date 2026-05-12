@@ -1,3 +1,9 @@
+- title: Korp frontend 9.15
+  body:
+    swe: Sammanställ statistik på attribut även om de inte finns i alla valda korpusar. Hovra över korpusnamnen i statistiktabellen för att se hela namnet. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: Group statistics by attributes even if they are not supported by all selected corpora. Hover corpus names in the statistics table to see the whole name. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2026-05-12
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
