@@ -1,6 +1,16 @@
 - title:
-    swe: Enklare hantering av kolumner med fördefinierade värden.
-    eng: Improved handling of columns with predefined values.
+    swe: Sök på ord som börjar eller slutar med mellanslag
+    eng: Search for words that starts or ends with a space
+  body:
+    swe: 'Du kan exempelvis söka på " sig" och kryssa i "slutar med" för att hitta ordkombinationer som slutar med "sig".'
+    eng: 'For example, you can search for " sig" and check the "ends with" option to find word combinations that end with "sig".'
+  created: 2026-05-13
+  expires: 2026-06-29
+  tags:
+  
+- title:
+    swe: Enklare hantering av kolumner med fördefinierade värden
+    eng: Improved handling of columns with predefined values
   body:
     swe: I exempelvis ordklass (UD) kan du nu söka fram ett fördefinierat värde. Använd piltangenterna eller sök direkt i rutan.
     eng: In, for example, part of speech (UD), you can now search among the predefined values. Use the arrow keys or search directly in the input field.
