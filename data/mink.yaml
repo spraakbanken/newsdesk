@@ -1,3 +1,15 @@
+- title:
+    swe: Uppgradering
+    eng: Upgrade
+  body:
+    swe: Måndagen 8 juni uppgraderar vi Mink. Det kommer därför att vara otillgängligt en stund under eftermiddagen.
+    eng: On Monday, June 8, Mink will be upgraded. It is therefore expected to be unavailable for a short period during the afternoon.
+  created: 2026-06-08
+  expires: 2026-06-09
+  tags:
+    - featured
+    - maintenance
+
 - title: Mink frontend 1.18
   body:
     swe: |
