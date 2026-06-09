@@ -1,3 +1,13 @@
+- title: Mink frontend 2.1
+  body:
+    swe: |
+      <p><a href="https://spraakbanken.gu.se/aktuellt/nyheter/mink-stodjer-nu-lexikon" target="_blank">Mink stödjer nu lexikon</a>. Labbläget har fått ett utmärkande sidhuvud.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Mink now supports lexicons, see the <a href="https://spraakbanken.gu.se/aktuellt/nyheter/mink-stodjer-nu-lexikon" target="_blank">news post (in Swedish)</a>. The lab mode is visually marked as such.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2026-06-08
+
 - title:
     swe: Uppgradering
     eng: Upgrade
