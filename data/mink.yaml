@@ -10,6 +10,16 @@
     - featured
     - maintenance
 
+- title: Mink frontend 2.0
+  body:
+    swe: |
+      <p>Nu är det möjligt för olika organisationer att drifta sin egen Mink-frontend. För dig som användare märks framför allt att resurslistan i ditt bibliotek är mer kompakt.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Now any organisation can host their own Mink frontend. As a user, you will notice that the resource list in your library is more compact.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2026-06-02
+
 - title: Mink frontend 1.18
   body:
     swe: |
