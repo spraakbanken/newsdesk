@@ -1,3 +1,13 @@
+- title: Mink frontend 2.2
+  body:
+    swe: |
+      <p>Käll- och resultatfilerna visas i större rutor. Namn och beskrivning anges nu i aktuellt språk – byt med jordklotsikonen i sidhuvudet.</p>
+      <p>Läs om alla ändringar i <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">ändringsloggen</a>.</p>
+    eng: |
+      <p>Source and result files are shown larger. Name and description are now given in the current language – change with the globe icon in the header.</p>
+      <p>Read about all changes in the <a href="https://github.com/spraakbanken/mink-frontend/blob/main/CHANGELOG.md" target="_blank">changelog</a>.</p>
+  created: 2026-09-09
+
 - title: Mink frontend 2.1
   body:
     swe: |
