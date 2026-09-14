@@ -1,4 +1,14 @@
 - title:
+    swe: Byte av typsnitt för tabeller och brödtext för att öka läsbarheten
+    eng: Changed font for data and body text to increase legibility
+  body:
+    swe: 'Nu används Språkbankens profiltypsnitt endast till rubriker och element i gränssnittet.'
+    eng: 'We now only use the profile font of Språkbanken for headings and user interface elements.'
+  created: 2026-09-14
+  expires: 2026-10-14
+  tags:
+
+- title:
     swe: Sök på ord som börjar eller slutar med mellanslag
     eng: Search for words that starts or ends with a space
   body:
