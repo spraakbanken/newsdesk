@@ -1,4 +1,14 @@
 - title:
+    swe: Visa diagram på totaler
+    eng: Show graph based on totals
+  body:
+    swe: 'Nu kan du visa diagram baserat på totaler, alltså fördelat över kolumner i statistikvyn.'
+    eng: 'You can now show graphs based on the totals, ie distributed across columns in the statistics view.'
+  created: 2026-09-17
+  expires: 2026-10-17
+  tags:
+  
+- title:
     swe: Karp hanterar nu fler fält med förval bättre
     eng: Karp now handles more fields with categories
   body:
