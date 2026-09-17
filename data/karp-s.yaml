@@ -1,4 +1,14 @@
 - title:
+    swe: Karp hanterar nu fler fält med förval bättre
+    eng: Karp now handles more fields with categories
+  body:
+    swe: 'Nu kan du se inte bara förval utan också deras betydelse, exempelvis ordklass.'
+    eng: 'We now show not only fields with categories, but also their meaning, for example part-of-speech.'
+  created: 2026-09-17
+  expires: 2026-10-17
+  tags:
+
+- title:
     swe: Byte av typsnitt för tabeller och brödtext för att öka läsbarheten
     eng: Changed font for data and body text to increase legibility
   body:
