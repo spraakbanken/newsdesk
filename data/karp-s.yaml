@@ -1,4 +1,14 @@
 - title:
+    swe: Visa referenstabeller på sammanställda uttryck
+    eng: Show reference tables on compiled expressions
+  body:
+    swe: 'I statistikvyn kan du nu skapa referenstabeller på sammanställda uttryck genom att klicka på siffran i totalkolumnen.'
+    eng: 'You can now create reference tables for compiled expressions in the statistics view, by clicking on the number in the totals-column.'
+  created: 2026-09-25
+  expires: 2026-10-25
+  tags:
+
+- title:
     swe: Visa diagram på totaler
     eng: Show graph based on totals
   body:
