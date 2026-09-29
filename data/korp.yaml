@@ -1,3 +1,9 @@
+- title: Korp frontend 10
+  body:
+    swe: Korps nya användargränssnitt är omskrivet från grunden! Läs mer i blogginlägget <a href="https://sprakbanken.se/en/news-and-events/blog/2026-09-29-korp-frontend-10-a-new-face" target="_blank">Korp frontend 10 – a new face</a>.
+    eng: Korp's user interface has been rewritten from scratch! Read more in the blog post <a href="https://sprakbanken.se/en/news-and-events/blog/2026-09-29-korp-frontend-10-a-new-face" target="_blank">Korp frontend 10 – a new face</a>.
+  created: 2026-09-29
+
 - title: Korp frontend 9.15
   body:
     swe: Sammanställ statistik på attribut även om de inte finns i alla valda korpusar. Hovra över korpusnamnen i statistiktabellen för att se hela namnet. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
