@@ -1,4 +1,14 @@
 - title:
+    swe: Nytt renare utseende
+    eng: New cleaner looks
+  body:
+    swe: 'Som en del i vårt arbete med att få våra plattformar att konvergera utseendemässigt (och funktionellt) har formen på Karps sökläge uppdaterats.'
+    eng: 'As part of our efforts to make our platforms more consistent in terms of appearance (and functionality), the design of Karp’s search interface has been updated.'
+  created: 2026-10-02
+  expires: 2026-11-02
+  tags:
+
+- title:
     swe: Visa referenstabeller på sammanställda uttryck
     eng: Show reference tables on compiled expressions
   body:
