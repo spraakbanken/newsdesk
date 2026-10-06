@@ -1,3 +1,15 @@
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
+    swe: Onsdagen 7 oktober utförs underhållsarbete för några av Språkbankens servrar. Underhållsfönstret är kl 9–16 (UTC+2).
+    eng: On Wednesday, October 7, we are performing maintenance work on Språkbanken servers between 9 a.m. and 4 p.m (UTC+2).
+  created: 2026-10-06
+  expires: 2026-10-08
+  tags:
+    - featured
+    - maintenance
+
 - title: Korp frontend 10
   body:
     swe: Korps nya användargränssnitt är omskrivet från grunden! Läs mer i blogginlägget <a href="https://sprakbanken.se/en/news-and-events/blog/2026-09-29-korp-frontend-10-a-new-face" target="_blank">Korp frontend 10 – a new face</a>.
