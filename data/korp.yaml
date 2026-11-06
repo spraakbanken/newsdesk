@@ -2,6 +2,18 @@
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
+    swe: Onsdagen 2 december utförs underhållsarbete för några av Språkbankens servrar. Underhållsfönstret är kl 9–16 (UTC+1).
+    eng: On Wednesday, December 2, we are performing maintenance work on Språkbanken servers between 9 a.m. and 4 p.m (UTC+1).
+  created: 2026-11-26
+  expires: 2026-12-03
+  tags:
+    - featured
+    - maintenance
+
+- title:
+    swe: Planerat serverunderhåll
+    eng: Scheduled server maintenance
+  body:
     swe: Onsdagen 7 oktober utförs underhållsarbete för några av Språkbankens servrar. Underhållsfönstret är kl 9–16 (UTC+2).
     eng: On Wednesday, October 7, we are performing maintenance work on Språkbanken servers between 9 a.m. and 4 p.m (UTC+2).
   created: 2026-10-06
