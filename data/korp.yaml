@@ -1,3 +1,9 @@
+- title: Korp frontend 10.1
+  body:
+    swe: Välj skiftlägesokänsligt i statistiken för andra attribut än bara "ord". Jämförelseresultatet innehåller fler rader och kan exporteras som tabell. Dependensträdsvisualiseringen visar matchningen i fetstil. Läs om alla ändringar i <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">ändringsloggen</a>.
+    eng: Toggle case-insensitivity in Statistics for more attributes than just "word". Comparison result includes more rows and can be exported as a table. The dependency tree visualisation highlights matching tokens. Read about all changes in the <a href="https://github.com/spraakbanken/korp-frontend/blob/dev/CHANGELOG.md">changelog</a>.
+  created: 2026-11-10
+
 - title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
