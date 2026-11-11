@@ -1,9 +1,21 @@
 - title:
+    swe: Eventuella störningar
+    eng: Potential interruption
+  body:
+    swe: Fredagen 13 november pågår byggnadsarbete i huset där våra servrar finns, mellan 7.30 och 13.00 (UTC+1). Detta kan leda till tillfälliga ström- och internetavbrott och därmed störningar i våra tjänster.
+    eng: There will be construction work on Friday 13th of November between 7.30 a.m. and 1 p.m. (UTC+1) in the building where our servers are located. This can potentially lead to temporary power and internet outage and consequently interruptions of our services. 
+  created: 2026-11-11
+  expires: 2026-11-14
+  tags:
+    - featured
+    - maintenance
+
+- title:
     swe: Planerat serverunderhåll
     eng: Scheduled server maintenance
   body:
     swe: Onsdagen 2 december utförs underhållsarbete för några av Språkbankens servrar. Underhållsfönstret är kl 9–16 (UTC+1).
-    eng: On Wednesday, December 2, we are performing maintenance work on Språkbanken servers between 9 a.m. and 4 p.m (UTC+1).
+    eng: On Wednesday, December 2, we are performing maintenance work on Språkbanken servers between 9 a.m. and 4 p.m. (UTC+1).
   created: 2026-11-26
   expires: 2026-12-03
   tags:
